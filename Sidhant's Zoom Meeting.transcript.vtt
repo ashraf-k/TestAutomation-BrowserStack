@@ -1,0 +1,1722 @@
+WEBVTT
+
+1
+00:00:51.440 --> 00:00:53.760
+Sidhant: Sri, are you able to share here?
+
+2
+00:00:53.910 --> 00:00:55.179
+shrikrishna umbare: Can you confirm my screen.
+
+3
+00:00:55.180 --> 00:00:57.059
+Sidhant: Yeah, it's… yeah, it is.
+
+4
+00:00:57.390 --> 00:01:01.119
+shrikrishna umbare: Apologies, I don't know what happened, we'll check with our IT.
+
+5
+00:01:01.400 --> 00:01:11.479
+shrikrishna umbare: Okay. So, team, as mentioned, like, last time I wasn't there, but I got to know from the nodes. Is this team available here?
+
+6
+00:01:12.850 --> 00:01:14.670
+Sidhant: I think folks are still joining me.
+
+7
+00:01:14.960 --> 00:01:16.620
+shrikrishna umbare: Okay, okay, let's wait for one.
+
+8
+00:01:21.360 --> 00:01:24.300
+saraiyan: Yeah, thank you.
+
+9
+00:01:44.260 --> 00:01:45.669
+saraiyan: We can start to think.
+
+10
+00:01:46.080 --> 00:01:47.000
+shrikrishna umbare: Okay, okay.
+
+11
+00:01:47.330 --> 00:02:04.580
+shrikrishna umbare: So, Tim, Emily, in the last call, we couldn't have the end-to-end demo, and the discussion was around the information, pain points, and everything. And you mentioned you also wanted to see the AI capabilities
+
+12
+00:02:04.580 --> 00:02:20.409
+shrikrishna umbare: For your application, for your use cases itself. So, like, a few time back itself, I just, I just got a chance to create a PRD, like a sample PRD, not the accurate one, but, for your use cases, and I have created two requirements as well.
+
+13
+00:02:20.410 --> 00:02:34.910
+shrikrishna umbare: So, we will work, we will keep the flow accordingly. So, for example, if we have TAPCOP requirement 1, we have TAPCOP requirement 2, defect 1, this is just the sample one, just, I can just give a name.
+
+14
+00:02:38.480 --> 00:02:47.149
+shrikrishna umbare: Okay. And we'll be creating a new project itself, and there are some data for which I will just use the sample project.
+
+15
+00:02:47.400 --> 00:02:53.940
+shrikrishna umbare: So, this is how the dashboard of TM looks like. You can see all of your projects.
+
+16
+00:02:56.000 --> 00:03:05.819
+shrikrishna umbare: If you want to create a new project, you can just create a new project. If you want to quick import, you can do it from test style, X-ray, the per scale, the quad, and Q-Test.
+
+17
+00:03:05.930 --> 00:03:10.219
+shrikrishna umbare: I will just go back for now, and we'll create a project.
+
+18
+00:03:10.600 --> 00:03:12.620
+shrikrishna umbare: So, for example…
+
+19
+00:03:19.760 --> 00:03:33.549
+shrikrishna umbare: Okay, so you can see, in the test case section, currently there is nothing, but you get the ability to create a folder-wise structure. So, for example, if you have any test cases for security, you can just create a folder accordingly.
+
+20
+00:03:33.550 --> 00:03:38.670
+saraiyan: Sudan, I think, Can we start from a bit basic? Because…
+
+21
+00:03:39.070 --> 00:03:41.200
+saraiyan: The team is completely new to this platform.
+
+22
+00:03:41.330 --> 00:03:43.230
+saraiyan: So they have no clue about that.
+
+23
+00:03:43.910 --> 00:03:44.310
+Sidhant: short.
+
+24
+00:03:45.100 --> 00:03:49.239
+saraiyan: Right, just to… Consider this as a…
+
+25
+00:03:49.300 --> 00:03:58.510
+Sidhant: brand new product for them, right? So… Yeah, yeah. Sri, I think we should start from scratch, just give a view of the dashboards and the flows where they can see.
+
+26
+00:03:58.510 --> 00:04:17.249
+shrikrishna umbare: Yeah, yeah, I'm just creating a new project for that itself, so that we can just explore, like, every feature and, like, very basic feature from start itself. So, team, as mentioned, like, this is the test management tool where you can create, manage, write, or edit your test cases.
+
+27
+00:04:17.250 --> 00:04:21.199
+shrikrishna umbare: Where you get the, lot more AI capabilities.
+
+28
+00:04:21.200 --> 00:04:30.660
+shrikrishna umbare: To save the time, to increase the efficiency. So, first section is a test cases section, where you can create, right, manage your test cases.
+
+29
+00:04:30.660 --> 00:04:46.159
+shrikrishna umbare: Second section is test run section. We'll come to each section, in detail, and we'll… we'll try to create some test case, test run, we'll try, use this requirement and defect, so that we can check the end-to-end demo, end-to-end flow, how it looks.
+
+30
+00:04:46.160 --> 00:05:05.999
+shrikrishna umbare: With reports as well. So test runs will be of two parts. One is a manual test run, I will just show you that how it looks, and there will be an automation run. So, if you run your automated scripts, and you want to see those runs as well, you will be able to see those runs, and you can run, you can link this automation run
+
+31
+00:05:06.010 --> 00:05:08.889
+shrikrishna umbare: To the test cases that you have created manually.
+
+32
+00:05:09.360 --> 00:05:17.050
+shrikrishna umbare: Then, there will be test plan. So, test plan will be consisting of different test plan. You can just consider it like a sprint.
+
+33
+00:05:17.350 --> 00:05:19.739
+shrikrishna umbare: And then you can assign it to someone.
+
+34
+00:05:20.650 --> 00:05:38.329
+shrikrishna umbare: And, you can just work on it, you can see the progress. We'll create a test plan as well. And then there are reports. And, like, whole test management consists of this, four important feature, but alongside with that, we have a project insight, where you can see different dashboards.
+
+35
+00:05:38.520 --> 00:05:48.450
+shrikrishna umbare: For now, there's no data, but once we create the data, you'll be able to see, and we will explore, like, a lot of customization that you can get to create this widget.
+
+36
+00:05:48.550 --> 00:05:51.140
+shrikrishna umbare: To see the overview and summary of everything.
+
+37
+00:05:51.570 --> 00:05:55.160
+shrikrishna umbare: Tim, feel free to interrupt me in between.
+
+38
+00:05:56.060 --> 00:06:05.300
+shrikrishna umbare: So that, we can just, answer your question, or any open pointer right away, and then we can continue. Does that, does that work?
+
+39
+00:06:09.300 --> 00:06:09.940
+saraiyan: Yes.
+
+40
+00:06:10.220 --> 00:06:10.940
+shrikrishna umbare: Okay.
+
+41
+00:06:11.280 --> 00:06:21.820
+shrikrishna umbare: So, team, as mentioned, I have created a different new project itself. If you want to import the test cases, you can import the test cases from CSV,
+
+42
+00:06:21.850 --> 00:06:38.790
+shrikrishna umbare: Just showing you the ability. If you want to do the quick import, we, support these platforms as well, where you can just integrate this with this platform, and you can just quickly, get the details, right away from that specific platform.
+
+43
+00:06:38.830 --> 00:06:54.580
+shrikrishna umbare: Then there is a folder-wise hierarchy that you can use to add your test cases. So, for example, I have created one. If I want to create another one, security, and I want to, let's create another one,
+
+44
+00:06:55.530 --> 00:06:56.960
+shrikrishna umbare: authentication.
+
+45
+00:07:00.720 --> 00:07:07.699
+shrikrishna umbare: So you can see, currently, there are two folders, and there's no test case. And even if you want to create,
+
+46
+00:07:07.990 --> 00:07:18.360
+shrikrishna umbare: folder inside this folder, you can do that as well. There are multiple capabilities that you can do with this folder, the way we, do with our file manager, right? Now, here, you can see…
+
+47
+00:07:18.360 --> 00:07:22.279
+saraiyan: So, we will have the ability for multiple folders.
+
+48
+00:07:22.500 --> 00:07:33.439
+shrikrishna umbare: Like, folder within a folder, and a folder within a folder? Yes, absolutely, absolutely. Because, like, having a folder in just one repository doesn't make any sense, right? So, for example, I can show you this one.
+
+49
+00:07:34.270 --> 00:07:39.410
+shrikrishna umbare: In users, there's a profile. In account, there's a privacy deactivation notification.
+
+50
+00:07:39.740 --> 00:07:42.589
+saraiyan: We are bonded. I'll also get water. Okay.
+
+51
+00:07:42.850 --> 00:07:43.350
+shrikrishna umbare: Yeah.
+
+52
+00:07:43.540 --> 00:07:45.899
+shrikrishna umbare: So, for, Juan,
+
+53
+00:07:46.080 --> 00:07:53.509
+shrikrishna umbare: For this specific folder, you can create test cases with different ways. You can create a test case manually.
+
+54
+00:07:53.550 --> 00:07:55.669
+shrikrishna umbare: So, yeah, so…
+
+55
+00:07:55.710 --> 00:08:09.969
+shrikrishna umbare: For now, I will just create a test case with AI. So, in the time it generates the test cases, we can create test case manually. So, you just need to click on Generate with AI, and you can see, you just need to click on Add Requirements.
+
+56
+00:08:09.970 --> 00:08:20.760
+shrikrishna umbare: You can add Figma requirements, ADO requirements, Jira requirements, linear, Confluence, SharePoint, OneDrive. If you have any other file, just upload that file. So…
+
+57
+00:08:21.120 --> 00:08:24.199
+saraiyan: Is it one only, or we can add multiple sources?
+
+58
+00:08:24.200 --> 00:08:25.609
+shrikrishna umbare: You can add multiple files.
+
+59
+00:08:26.650 --> 00:08:29.650
+saraiyan: No, no, like, I can add Jira and Figma together?
+
+60
+00:08:29.650 --> 00:08:30.370
+shrikrishna umbare: Yes.
+
+61
+00:08:31.690 --> 00:08:32.409
+saraiyan: Okay.
+
+62
+00:08:32.919 --> 00:08:34.529
+shrikrishna umbare: The file that I created.
+
+63
+00:08:40.940 --> 00:08:44.459
+shrikrishna umbare: Let me just, get the file. I have the file.
+
+64
+00:08:45.390 --> 00:08:51.219
+shrikrishna umbare: And you, along with that, you can also, view the prompt as well.
+
+65
+00:09:08.480 --> 00:09:09.810
+shrikrishna umbare: This is what I need it.
+
+66
+00:09:10.270 --> 00:09:14.370
+Sidhant: Sri, are you… were you trying to upload the WhatsApp yearly? The regular upload?
+
+67
+00:09:14.370 --> 00:09:18.859
+shrikrishna umbare: I have created, one different PRD for that. Okay. Yeah, yeah, I got the fine.
+
+68
+00:09:18.990 --> 00:09:31.389
+shrikrishna umbare: Team team mentioned they want to see the AI use cases for, sample use cases, right? So, this is the file that I've created. Let me just open it.
+
+69
+00:09:31.570 --> 00:09:33.939
+shrikrishna umbare: So, the file has been uploaded here.
+
+70
+00:09:34.360 --> 00:09:38.060
+shrikrishna umbare: And you can give the… my screen is visible, right?
+
+71
+00:09:38.880 --> 00:09:39.710
+saraiyan: Yes.
+
+72
+00:09:41.120 --> 00:09:55.430
+shrikrishna umbare: I can, I can show you this file as well. So, this file contains, one sample use case where, it shows the objective, background and context, scope of the test case.
+
+73
+00:09:55.690 --> 00:09:59.970
+shrikrishna umbare: And the function required. It is very basic, PRD.
+
+74
+00:10:00.250 --> 00:10:05.270
+shrikrishna umbare: And the file has been uploaded, right? Now you can give the,
+
+75
+00:10:05.540 --> 00:10:17.230
+shrikrishna umbare: prompt. If you want to generate the test cases in a specific way, you can do that as well. Here's a setting button. So, if you want to generate the test cases.
+
+76
+00:10:17.530 --> 00:10:28.100
+shrikrishna umbare: For just this category, just select those categories. If you want to generate the test cases in text format, or in BDD format, or in the test format, you can do that as well.
+
+77
+00:10:28.140 --> 00:10:37.840
+shrikrishna umbare: And, according to priority, and according to language as well. So we give this a lot of control, to generate the test cases, and if you want to
+
+78
+00:10:37.840 --> 00:10:49.680
+shrikrishna umbare: like, generate the data sets as well for those test cases, you can just include the dataset as well. For now, I'm not including, just to keep the thing simple. And you can generate the test cases.
+
+79
+00:10:49.860 --> 00:11:08.659
+shrikrishna umbare: So, what it will do, whatever information that you're giving, whatever prompt that you are providing, on the basis of that, it will generate the context, it will categorize the context, and then it will try to generate all the test cases. So, meanwhile, it is generating test cases. I can show you the manual flow.
+
+80
+00:11:08.720 --> 00:11:09.899
+shrikrishna umbare: So.
+
+81
+00:11:09.900 --> 00:11:11.240
+saraiyan: Is the LLM behind?
+
+82
+00:11:11.620 --> 00:11:24.499
+shrikrishna umbare: So, there are multiple LLMs used, like Andropic, OpenAI, and we don't use any of our customer data to train. Those are trained on the,
+
+83
+00:11:25.260 --> 00:11:27.780
+shrikrishna umbare: Sample data set, yeah.
+
+84
+00:11:28.330 --> 00:11:31.989
+saraiyan: But all the PRDs and stuff which are going in, where are they going to go?
+
+85
+00:11:32.280 --> 00:11:33.529
+saraiyan: Like, that data.
+
+86
+00:11:34.260 --> 00:11:35.110
+shrikrishna umbare: Sareem?
+
+87
+00:11:35.430 --> 00:11:37.869
+saraiyan: the PRDs which you uploaded right now.
+
+88
+00:11:38.890 --> 00:11:41.059
+saraiyan: Is it not going to train it?
+
+89
+00:11:41.060 --> 00:11:45.129
+shrikrishna umbare: No, it's… that data… that data won't be used for the training part.
+
+90
+00:11:45.540 --> 00:11:57.009
+Sidhant: Yeah, I mean, for training purposes, we use our own dummy data, dummy sheets. There's no customer data. We've got, like, a very robust security mechanism in place where no customer data gets exposed.
+
+91
+00:11:57.300 --> 00:12:02.329
+Sidhant: For training, at least. So, yeah, that gets taken care of.
+
+92
+00:12:03.730 --> 00:12:04.390
+saraiyan: Okay.
+
+93
+00:12:04.770 --> 00:12:05.300
+shrikrishna umbare: Yeah.
+
+94
+00:12:05.600 --> 00:12:10.369
+shrikrishna umbare: So, meanwhile, the test scales are being generated, I can show you the,
+
+95
+00:12:10.510 --> 00:12:16.519
+shrikrishna umbare: manual flow. We will discuss the Jira integration as well. So…
+
+96
+00:12:16.560 --> 00:12:30.689
+shrikrishna umbare: if you want to generate the test case manually, like, you have created it AI, but if you feel like one… there's one test case, I need to create manually. So you can just create the manual test case as well. So, simple test case.
+
+97
+00:12:31.210 --> 00:12:38.359
+saraiyan: Awesome. So, this time, instead of… so, when we had the last showcase, we started with.
+
+98
+00:12:38.360 --> 00:12:55.770
+shrikrishna umbare: Okay, just a simple website, sorry, just a simple, test case, and even for this one, you want to create it manually, like, this wasn't part of the Gen AI test cases set, but for this as well, if you want to generate, with AI, you can just click on this button.
+
+99
+00:12:56.280 --> 00:12:59.140
+shrikrishna umbare: What it can do, it can…
+
+100
+00:12:59.140 --> 00:13:06.099
+shrikrishna umbare: add the description, it can add the precondition, and it can add the steps as well. Navigate to TapCorp website homepage.
+
+101
+00:13:06.100 --> 00:13:25.700
+shrikrishna umbare: What is the result? The homepage is displayed successfully. Then locate and click on login button. So, these steps are generated. If you feel any of the steps is incorrect, you can just simply delete it, or if you want to add any other detail, you can add, or you can drag and move the steps. If you want to add any URL, any file.
+
+102
+00:13:25.700 --> 00:13:28.689
+saraiyan: So, what's the context it took? Is it just the…
+
+103
+00:13:28.690 --> 00:13:35.359
+shrikrishna umbare: Just the… That's the heading. If you want to give more context, you can add the description by yourself.
+
+104
+00:13:35.360 --> 00:13:53.639
+shrikrishna umbare: And title, and then you can also use the AI capability. If you want to do everything from the scratch, you can do that as well. Like, previously we saw that, right? Before generating the test case, everything was blank. So you can just come here, add the step, add the next steps, add the steps, add the result, and do everything manually as well.
+
+105
+00:13:53.640 --> 00:14:00.479
+shrikrishna umbare: But even in manual flow, if you want to utilize the AI capability with a lot more control, you can do this way as well.
+
+106
+00:14:00.990 --> 00:14:13.440
+shrikrishna umbare: So, these are the different fields that you get for a test case, like who is the owner, what is the state, what is the priority, what are the type. Now, question arises, I don't use this
+
+107
+00:14:13.530 --> 00:14:30.650
+shrikrishna umbare: tags, right? I had different fields. So, while mapping as well, you can map those fields. If you want to create a custom field, that is another very important feature that we provide, which is creating a custom field for test cases and test results.
+
+108
+00:14:30.650 --> 00:14:36.290
+shrikrishna umbare: So, if you have any other field that you want to use, you can create that field as well.
+
+109
+00:14:36.390 --> 00:14:40.020
+shrikrishna umbare: Not just for test case, but test result and test plan as well.
+
+110
+00:14:40.150 --> 00:14:43.120
+shrikrishna umbare: So, you will be able to see that field here.
+
+111
+00:14:43.340 --> 00:14:50.310
+shrikrishna umbare: And you can create the custom options as well. So, for example, you created a field, Field 1.
+
+112
+00:14:50.410 --> 00:14:57.489
+shrikrishna umbare: And which contains 3 options, X, Y, Z. So, you can create, those options. If you want to…
+
+113
+00:14:57.670 --> 00:15:07.010
+shrikrishna umbare: have that, if you want to have the ability to select multiple values, you can do that as well. So, this is another feature that is very important.
+
+114
+00:15:07.080 --> 00:15:18.430
+shrikrishna umbare: Then the two-way Jira integration binding that I was referring. So, here you can link it to Jira. Like, can you please confirm, I believe you use Jira, right?
+
+115
+00:15:18.930 --> 00:15:19.450
+saraiyan: Yes.
+
+116
+00:15:19.700 --> 00:15:27.910
+shrikrishna umbare: Okay, okay. So, so, as I mentioned, I have created two requirements, and I have one defect.
+
+117
+00:15:28.200 --> 00:15:32.410
+shrikrishna umbare: So, you can link your requirement from here.
+
+118
+00:15:33.230 --> 00:15:34.969
+shrikrishna umbare: So, for example,
+
+119
+00:15:50.600 --> 00:15:55.390
+shrikrishna umbare: So, once you, link your requirement, It's incredible.
+
+120
+00:15:56.930 --> 00:15:59.499
+shrikrishna umbare: Once you, link your,
+
+121
+00:16:00.320 --> 00:16:03.789
+shrikrishna umbare: Like, requirement here, you will be able to see that requirement.
+
+122
+00:16:03.950 --> 00:16:08.720
+shrikrishna umbare: So for example, this is not pitching the… the project is different.
+
+123
+00:16:18.680 --> 00:16:26.419
+shrikrishna umbare: Requirement 1. Now, I have linked this requirement, from the test management tool. I will just simply update it.
+
+124
+00:16:26.810 --> 00:16:34.520
+shrikrishna umbare: So, whatever test cases that I link the requirement here will be linked to this requirement section.
+
+125
+00:16:35.670 --> 00:16:41.659
+shrikrishna umbare: So, we have plugin in Jira, so you can see this plugin here.
+
+126
+00:16:41.860 --> 00:16:44.460
+shrikrishna umbare: And, once you link the plugin.
+
+127
+00:16:44.800 --> 00:16:55.799
+shrikrishna umbare: You'll be able to see, like, generate test cases using AI, generate test runs using AI, and if there are any test cases which are linked, which will be seen here. Let me just replace the page.
+
+128
+00:17:01.720 --> 00:17:06.019
+shrikrishna umbare: You can see the test cases that I linked will be seen now.
+
+129
+00:17:07.140 --> 00:17:15.089
+shrikrishna umbare: So, that is, you can see, logging into TAPCOP website, correct? So, whatever test cases that you, use to link.
+
+130
+00:17:15.220 --> 00:17:18.300
+shrikrishna umbare: the requirement. Those will be seen.
+
+131
+00:17:18.780 --> 00:17:32.040
+shrikrishna umbare: be, like, inside that requirement section, this one, right? That is one-way Jira integration, where you do mapping or linking from test management tool, and that is reflected into
+
+132
+00:17:32.110 --> 00:17:51.919
+shrikrishna umbare: the Jira, right? Not just the requirement one, we'll show another linking as well, like, for defects, and other things as well, but this is one part of linking, one-way linking. Now, second kind of linking is doing or creating the test cases from here, or generating the test cases directly from here.
+
+133
+00:17:51.990 --> 00:17:54.510
+shrikrishna umbare: And you'll be able to see
+
+134
+00:17:54.700 --> 00:17:57.909
+shrikrishna umbare: Those test cases inside this folder as well.
+
+135
+00:17:58.440 --> 00:18:07.219
+shrikrishna umbare: So, for example, Let me show you it for the… requirement tools.
+
+136
+00:18:17.330 --> 00:18:30.409
+shrikrishna umbare: Okay, you can see, there's an option, generate test case using AI, right? You can create a test case manually from here as well, the way we created from platform, right? And you can use the AI capability directly from here as well.
+
+137
+00:18:31.600 --> 00:18:33.529
+shrikrishna umbare: So, you need to select the project.
+
+138
+00:18:34.210 --> 00:18:39.880
+shrikrishna umbare: For what project you want to link this. In which folder you want to generate the test cases.
+
+139
+00:18:40.000 --> 00:18:41.930
+shrikrishna umbare: So, we have set the location.
+
+140
+00:18:42.830 --> 00:18:51.200
+shrikrishna umbare: And now we can generate the test cases. So for this part, what it will do, it will generate the context from this description.
+
+141
+00:18:51.510 --> 00:19:10.300
+shrikrishna umbare: Right? Because we will be having our requirement, all the details in the requirement, ticket, right? So, from this context, it will be automatically generating, the context and generating the test cases. So, it is generating the test cases, but we'll take a pause. Any, any question till now?
+
+142
+00:19:11.280 --> 00:19:17.699
+saraiyan: like, it's generating the test cases, but is the human in loop for validation before it adds it?
+
+143
+00:19:18.280 --> 00:19:19.660
+shrikrishna umbare: Sorry.
+
+144
+00:19:20.470 --> 00:19:24.650
+saraiyan: Is there a human in loop to review the test cases, or is directly attaching it?
+
+145
+00:19:25.170 --> 00:19:28.769
+shrikrishna umbare: Okay, okay, you need to review it, and it won't…
+
+146
+00:19:28.770 --> 00:19:30.150
+saraiyan: Before it attaches.
+
+147
+00:19:32.160 --> 00:19:48.329
+shrikrishna umbare: So, I can show you that. So, you just need to review it first. You can verify if they are generated successfully or correctly according to your need or not, and then only you can just add them. So, I will come to this part once. I can show you the
+
+148
+00:19:48.330 --> 00:19:52.589
+shrikrishna umbare: the test cases that we created with this generated AI from the test management tool.
+
+149
+00:19:52.590 --> 00:20:00.139
+saraiyan: Yeah, before we go there, when you were doing the manual test cases, right, where do you add the data requirements? Because I did not see that section.
+
+150
+00:20:00.500 --> 00:20:03.880
+shrikrishna umbare: So, when you say data… okay, okay, okay, I got your point.
+
+151
+00:20:05.960 --> 00:20:18.220
+shrikrishna umbare: So, this is how you can open the test case. You can click on edit button, you can go to… So, when you say you want to add data for the test case, is it the data for specific test type, like adding some screenshot.
+
+152
+00:20:18.220 --> 00:20:24.900
+saraiyan: Yeah, yeah, not… as an example, log in with username and password. It is not just what's username and password we would be validating.
+
+153
+00:20:25.670 --> 00:20:28.629
+saraiyan: Right? So it could have multiple data points.
+
+154
+00:20:28.850 --> 00:20:29.470
+shrikrishna umbare: Cutting.
+
+155
+00:20:29.880 --> 00:20:36.559
+shrikrishna umbare: So, there are different ways. For the first point, if you want to upload a file, you can just upload a file for this test case.
+
+156
+00:20:36.600 --> 00:20:50.839
+shrikrishna umbare: Now, this logging use case itself, you want to test it on a multiple user, multiple password, and there are other fields, right? Like, every time you fill a form before logging in, right? So, in that case, you can create a dataset.
+
+157
+00:20:51.310 --> 00:21:03.770
+shrikrishna umbare: You can see, you can add the variable name, you can give the values, you can enter a variable name, you can add the value, you can add rows, you can add columns, and you can create your dataset.
+
+158
+00:21:04.520 --> 00:21:06.150
+shrikrishna umbare: Does that answer your question?
+
+159
+00:21:08.360 --> 00:21:10.450
+saraiyan: Okay, but if it's step-by-step, then?
+
+160
+00:21:10.780 --> 00:21:12.720
+saraiyan: Like, if it's for a specific step?
+
+161
+00:21:13.160 --> 00:21:17.300
+shrikrishna umbare: when you say, step-by-step, can you elaborate, like, one example? I'm unable.
+
+162
+00:21:17.300 --> 00:21:20.439
+saraiyan: Let's say just for the password, not all the other steps.
+
+163
+00:21:20.920 --> 00:21:21.630
+shrikrishna umbare: Yeah, yeah, yeah, okay.
+
+164
+00:21:21.630 --> 00:21:24.990
+saraiyan: Only in that particular step itself, I want this dataset.
+
+165
+00:21:25.340 --> 00:21:27.249
+shrikrishna umbare: Yes, yes, yes, yes, you get the control.
+
+166
+00:21:27.250 --> 00:21:31.620
+saraiyan: Creating is one thing, but execution-wise, I would need to see that data set, right?
+
+167
+00:21:31.620 --> 00:21:45.579
+shrikrishna umbare: Correct, correct, correct. Okay, okay, I can help you with that. So, for example, for this logging workflow as well, itself, if we have, let's take an example. We create a dataset of two users and two passwords, right?
+
+168
+00:21:45.580 --> 00:21:51.800
+shrikrishna umbare: So, whenever we create a test run manually for that specific,
+
+169
+00:21:52.120 --> 00:22:00.259
+shrikrishna umbare: test case, you will be able to see this specific manual then will be created for 2 users and 2 passwords.
+
+170
+00:22:02.410 --> 00:22:12.139
+shrikrishna umbare: So, once you, once you try it out, you'll get a more clear idea, like, for your use case, like, whatever use case that you need to try, but yeah, that can be achieved, the use case that you are,
+
+171
+00:22:12.140 --> 00:22:14.530
+saraiyan: No, but this is a manual… okay.
+
+172
+00:22:15.400 --> 00:22:16.300
+saraiyan: So this is, you know…
+
+173
+00:22:16.300 --> 00:22:17.530
+shrikrishna umbare: How about the automation part?
+
+174
+00:22:18.340 --> 00:22:24.250
+saraiyan: No, no, no, for the manual execution as well, right? So let's say we are going into integration testing. So we have done our story testing.
+
+175
+00:22:24.870 --> 00:22:32.730
+saraiyan: Right? Now we have to bring all the test cases together to run those test cases. So how would that scenario work out during the integration phase?
+
+176
+00:22:32.900 --> 00:22:41.069
+shrikrishna umbare: Okay, okay, we'll come to that part, that will be in the test run section. So I can just tell you that, you can let me know if that is what you are asking.
+
+177
+00:22:41.860 --> 00:22:47.000
+saraiyan: Yeah, so because… So one is that. So, while doing that, I'll have to select the test cases.
+
+178
+00:22:47.000 --> 00:22:47.550
+shrikrishna umbare: Got it, got it.
+
+179
+00:22:47.550 --> 00:22:50.789
+saraiyan: So, as part of that test cases, I will have certain data sets.
+
+180
+00:22:50.930 --> 00:22:51.500
+shrikrishna umbare: Right.
+
+181
+00:22:51.500 --> 00:22:54.299
+saraiyan: It could be at the step level, or it could be at the test case level.
+
+182
+00:22:54.600 --> 00:22:59.189
+shrikrishna umbare: Correct, correct, correct. Let me just show you that in the test transaction section. We can come to that part.
+
+183
+00:22:59.340 --> 00:23:03.210
+shrikrishna umbare: Can we move to a, can we just continue with the AI capability?
+
+184
+00:23:04.220 --> 00:23:04.930
+shrikrishna umbare: No.
+
+185
+00:23:05.830 --> 00:23:14.399
+shrikrishna umbare: So you can see, the test cases are generated in a different section, visibility of share button, generation of unique shortened URL,
+
+186
+00:23:14.470 --> 00:23:28.330
+shrikrishna umbare: And these are the different categories on which the test cases are generated. So, for example, if I, open this specific capability generation of unique shortened URL for bed sharing, right?
+
+187
+00:23:28.380 --> 00:23:38.089
+shrikrishna umbare: So, verify unique URL generation for individual pending bet sharing. So, I want to verify if this test case generated is correct or not. So, I can just simply open it.
+
+188
+00:23:38.100 --> 00:23:56.539
+shrikrishna umbare: And I can see the description for that test case, the preconditions for that test case. For example, the user should be logged in into the TAB application. User has at least one pending bed slip available. The pending bit contains all this information from the context that, like, it has from this PRD.
+
+189
+00:23:56.550 --> 00:24:03.590
+shrikrishna umbare: And even if you feel you want to modify the test cases, you can just give the prompt, like, these test cases are fine.
+
+190
+00:24:03.590 --> 00:24:21.500
+shrikrishna umbare: But the pattern on which they are generated, I want it a bit different. Like, I want the flow in this way, or the many of the steps are, I feel, repeated. I don't want, like, very, very small steps as separate steps. So you can just modify, refine your test cases.
+
+191
+00:24:21.510 --> 00:24:26.260
+shrikrishna umbare: And if you feel you want to delete any specific test step, you can do that as well, right?
+
+192
+00:24:26.310 --> 00:24:27.010
+shrikrishna umbare: So…
+
+193
+00:24:27.010 --> 00:24:31.750
+saraiyan: What about limiting the number of test cases generated? So right now it has generated 50.
+
+194
+00:24:32.000 --> 00:24:34.939
+saraiyan: Can I limit that? Can I put that boundary?
+
+195
+00:24:35.420 --> 00:24:46.140
+shrikrishna umbare: I believe, that… you can try it in the prompt, let me just check it, like, I can just check that and get back to you whenever I create the test case next time. But I believe the numbering,
+
+196
+00:24:47.140 --> 00:24:54.629
+shrikrishna umbare: Number… Is it a configurable value, or is it… No, no, no, the value, the value part is not configurable, but in the prompt section.
+
+197
+00:24:54.630 --> 00:25:12.270
+shrikrishna umbare: I need to check once, like, if we give the number itself in the prompt, like, generate, just this many test cases, I can just check that and get back to you on this part. But yeah, but configure value, we don't have it now. I can check with our team, like, if there's any field that we can add.
+
+198
+00:25:13.760 --> 00:25:14.640
+saraiyan: Okay.
+
+199
+00:25:14.880 --> 00:25:16.029
+shrikrishna umbare: Yeah, I can get back to you.
+
+200
+00:25:16.420 --> 00:25:29.339
+Sidhant: Just trying to understand, Amish, the, you know, the rationale behind, like, would you want to put a limit there in terms of how many test cases are generated? Because it's quite comprehensive, and anyway, you have to select and go through the suggestions that it comes up.
+
+201
+00:25:29.340 --> 00:25:31.369
+saraiyan: That's why if I have to go with the 50…
+
+202
+00:25:31.740 --> 00:25:40.000
+saraiyan: Manually, you have to review each of them, it's of no use, right? So rather than saying that 50, I would say, let's say, generate 3 test cases, which are end-to-end, based on the context.
+
+203
+00:25:40.220 --> 00:25:41.080
+saraiyan: Shuck.
+
+204
+00:25:41.260 --> 00:25:46.420
+Sidhant: Yeah, maybe we can handle that via the prompt, but yeah, let's see if we can add this as a…
+
+205
+00:25:46.420 --> 00:25:54.569
+saraiyan: But, like, there's a boundary, right? Which, let's say I don't want to do it every time. I'm just going into more of an agentic way, right? This is still a manual way of doing it.
+
+206
+00:25:55.240 --> 00:25:57.309
+saraiyan: So if I go into agent mode…
+
+207
+00:25:57.510 --> 00:26:01.440
+Sidhant: And I just limit it to, let's say, 3 test cases by default.
+
+208
+00:26:02.060 --> 00:26:06.090
+saraiyan: Got it. Right? If somebody wants more, they can give the thing, but it needs to be configured.
+
+209
+00:26:06.090 --> 00:26:07.050
+Sidhant: Understood.
+
+210
+00:26:07.050 --> 00:26:13.330
+shrikrishna umbare: That should ideally be handed via the prompt, but yeah, we'll just, check on this with the product team.
+
+211
+00:26:13.450 --> 00:26:14.779
+saraiyan: We are not aiming for triplets.
+
+212
+00:26:15.050 --> 00:26:33.179
+shrikrishna umbare: So, I can add a test case, I can do reviewing manually as well. If I feel the reviewing has been done, I can just add these 38 test cases all at once, and once they are added, you will see that these test cases are added in this section, in the security folder.
+
+213
+00:26:33.180 --> 00:26:33.879
+saraiyan: That your site is.
+
+214
+00:26:33.880 --> 00:26:48.079
+shrikrishna umbare: You can see. And here you can see the AI-generated tags. If you want to see a different, different columns on this side, you can do that as well. So you can hide any of this, you can show any of this if you want to see.
+
+215
+00:26:48.080 --> 00:26:49.670
+saraiyan: Come back, that's why I won't take…
+
+216
+00:26:49.670 --> 00:26:53.249
+shrikrishna umbare: And yeah, similar to that, you can perform bulk actions on these test cases.
+
+217
+00:26:54.000 --> 00:27:09.129
+shrikrishna umbare: bulk editing, bulk creator, exporting, sharing. So, team, any question in test case, like, I can move towards testing, like, we have, like, a limited time. I need to cover test run, test run reports 3 section. But any question in test case section?
+
+218
+00:27:09.130 --> 00:27:13.560
+saraiyan: Tim, if you guys do anything day-to-day, which is… you guys want to see?
+
+219
+00:27:13.930 --> 00:27:15.859
+saraiyan: Feel free to ask that question now.
+
+220
+00:27:17.800 --> 00:27:19.900
+saraiyan: For text gas generation.
+
+221
+00:27:20.880 --> 00:27:28.839
+saraiyan: There's also a separate side conversation going on around web rebuild. So you don't want to do something and then again rebuild and… Let's proceed.
+
+222
+00:27:28.840 --> 00:27:33.610
+shrikrishna umbare: Okay, okay, okay. In the testing section, as I mentioned.
+
+223
+00:27:33.610 --> 00:27:34.130
+saraiyan: That's okay.
+
+224
+00:27:34.130 --> 00:27:51.229
+shrikrishna umbare: Test run is the collection of test case that you want to, select to run. It can be a manual run, it can be automation run. So, we'll just discuss a bit about automation run. So, like, you will be having your automation soon, automation set.
+
+225
+00:27:51.230 --> 00:27:58.859
+shrikrishna umbare: And you want to run those automation test cases with these test cases as well, right? Like, for example, I have this,
+
+226
+00:27:58.860 --> 00:27:59.430
+saraiyan: game is very.
+
+227
+00:27:59.430 --> 00:28:09.439
+shrikrishna umbare: 39 test cases, and I have the automation suite for these 39 test cases. It just… I want to map these test cases, like, for verified deep link, I have my test case.
+
+228
+00:28:09.900 --> 00:28:15.390
+shrikrishna umbare: you can do that as well. We call it as test case ID tagging. So…
+
+229
+00:28:15.790 --> 00:28:26.859
+shrikrishna umbare: even for your automation run, you will be able to track the progress with this specific test case. So, for example, this specific test case, I have ran it manually as well, with automation as well. We give that ability.
+
+230
+00:28:26.860 --> 00:28:27.500
+saraiyan: Thank you.
+
+231
+00:28:27.500 --> 00:28:40.380
+shrikrishna umbare: Then, coming towards the manual run. So you can create a manual run. So, I'm just giving this the default name. Then you can add the test cases, the one that you are asking.
+
+232
+00:28:40.380 --> 00:28:58.379
+shrikrishna umbare: So, you can apply the filters, you can apply it from the priority basis. For example, you want to create a test run for all priority tests, P0 test cases, or critical test cases, you can do that as well. So, for now, I'm just opening, two test cases for this test.
+
+233
+00:28:58.390 --> 00:28:59.310
+saraiyan: plus technology.
+
+234
+00:28:59.660 --> 00:29:08.189
+shrikrishna umbare: You can see the two test cases are, saved here, and you will be running it manually on, let's consider
+
+235
+00:29:08.450 --> 00:29:11.860
+shrikrishna umbare: Windows 10 Pro, and
+
+236
+00:29:11.990 --> 00:29:15.659
+shrikrishna umbare: Android 13 Pixel. So, these are the two are…
+
+237
+00:29:15.660 --> 00:29:18.370
+saraiyan: So, what is… where is this configuration coming from?
+
+238
+00:29:18.560 --> 00:29:25.019
+shrikrishna umbare: No, this is just the manual part, right? Like, so… Yeah, yeah, so even in that list, where is that coming from?
+
+239
+00:29:25.280 --> 00:29:31.889
+shrikrishna umbare: This is the default list that we have, but yeah, if you want to add any value, you can do that as well.
+
+240
+00:29:34.060 --> 00:29:36.690
+shrikrishna umbare: Because you'll be doing it anyway, manually, right?
+
+241
+00:29:39.180 --> 00:29:42.489
+shrikrishna umbare: So, you can just add this, or select these values.
+
+242
+00:29:44.020 --> 00:29:49.709
+shrikrishna umbare: So, for this two test case, I want to run it on Windows Pro and Android 13 Google Pixel.
+
+243
+00:29:49.710 --> 00:29:56.589
+Sidhant: Namlesh, did you mean, in terms of configuration, like, what combinations you're planning to execute those test cases, those test runs?
+
+244
+00:29:56.590 --> 00:30:01.899
+saraiyan: Not necessarily we would be interested in just iOS or anything, right? It will be mostly release-based.
+
+245
+00:30:03.060 --> 00:30:10.940
+saraiyan: So, I'm not sure what this configuration means, because this is just selecting the mobile devices right now, right? Or the OS versions.
+
+246
+00:30:11.380 --> 00:30:30.500
+shrikrishna umbare: So, Amrish, this is just for the, like, configuration purpose. You won't be, like, opening specific session directly for this specific part. Like, we give… we do give you the ability to open a session on a specific device, like, we have browser stack manual testing product, right, platform, which is live.
+
+247
+00:30:30.500 --> 00:30:37.600
+shrikrishna umbare: Where you can open that specific device OS combination directly, if available, that I can show you in a while.
+
+248
+00:30:37.600 --> 00:30:45.010
+shrikrishna umbare: But yeah, if you want to have it for different devices, I can just confirm that once. But yeah, this is just for the configuration part.
+
+249
+00:30:46.480 --> 00:30:53.779
+saraiyan: I'm looking at a different perspective, right? What you're saying is, yes, we do execute our test cases across different devices, right? That's one part to it.
+
+250
+00:30:54.380 --> 00:30:58.949
+saraiyan: But let's say in release 1.0, so we create usually a release 1.0 here.
+
+251
+00:30:59.110 --> 00:31:03.740
+saraiyan: 2.0, 3.0, right? As part of 1.0, there are, let's say, 4 teams available.
+
+252
+00:31:04.180 --> 00:31:09.320
+saraiyan: Right? 4 teams are adding their test cases and executing it across, like, 4 OSes.
+
+253
+00:31:10.360 --> 00:31:12.470
+shrikrishna umbare: So how would I do that here?
+
+254
+00:31:13.720 --> 00:31:28.840
+shrikrishna umbare: So, you will be having… so, for example, for version 1, you… let's consider you have the two test cases, right? And you will be running it, you will be running it on a different configuration. So, we have selected that, and, one user…
+
+255
+00:31:28.840 --> 00:31:31.270
+saraiyan: what's my release? Where does my version want?
+
+256
+00:31:32.250 --> 00:31:34.800
+shrikrishna umbare: You need to create a different test run for that.
+
+257
+00:31:36.530 --> 00:31:53.509
+shrikrishna umbare: So, for version 1, that will be one test run, and if you have exact test cases, exact requirement for another version, you can just clone this test run. So, it will be cloning the same test run to another test run, and you can just modify the name.
+
+258
+00:31:53.520 --> 00:32:02.939
+shrikrishna umbare: But even if you have any other changes, you can just create a separate one, the way we are creating. So let's consider this is your version 1, it's test run.
+
+259
+00:32:02.940 --> 00:32:06.370
+saraiyan: you go in the same room as their… They do it.
+
+260
+00:32:06.420 --> 00:32:18.430
+shrikrishna umbare: And you can, like, assign it to any user. So, for example, as you mentioned, some user will be performing this test run, right? Or working on this test run. So, you can just assign it to, for example, Shikrishnamay.
+
+261
+00:32:18.550 --> 00:32:33.819
+shrikrishna umbare: And here itself, you get the requirement. So, if you have any requirement that you want to link with this specific test run, you can do that. Similar to test case, if you go to CAN7, you will be able to see test run in the test run section, right?
+
+262
+00:32:34.030 --> 00:32:45.629
+shrikrishna umbare: And, then there's a test plan. So, for now, there's a no test plan, let me just create one test plan, we'll discuss in a little bit later. But this is a test plan, the start date, let me just put,
+
+263
+00:32:46.730 --> 00:32:50.620
+shrikrishna umbare: 11 March, and end date month… end of March.
+
+264
+00:32:52.000 --> 00:33:02.960
+shrikrishna umbare: Okay, so for now, just let's focus on the… test transaction. So, for… Okay, it didn't get created.
+
+265
+00:33:04.670 --> 00:33:08.429
+shrikrishna umbare: That's, what a brand new one.
+
+266
+00:33:12.360 --> 00:33:13.780
+shrikrishna umbare: group testing both.
+
+267
+00:33:17.700 --> 00:33:18.930
+shrikrishna umbare: That's select.
+
+268
+00:33:25.500 --> 00:33:42.020
+shrikrishna umbare: And I will link it to this test-specific test plan. So, this test plan, will be running from 11th March to end of the March, right? You can add the description, you can upload the file, and you can assign it to user. If you have any requirement, you can link it here, and you will be simply creating it.
+
+269
+00:33:42.310 --> 00:33:52.629
+shrikrishna umbare: Right? Now, we selected two test cases, but we selected two configurations. So, hence, there are total four, test cases inside this.
+
+270
+00:33:52.750 --> 00:34:00.260
+shrikrishna umbare: And now you can perform the test cases, check the test… verify the test cases by doing it manually.
+
+271
+00:34:00.280 --> 00:34:09.469
+shrikrishna umbare: So, for example, this one, this specific combination, might not be available, directly, on a live platform.
+
+272
+00:34:09.469 --> 00:34:21.080
+shrikrishna umbare: But yeah, if this is available, you can directly open that session from BrowserStack Live, which is a manual testing platform. Even not, you can just go to Live Dashboard, you can search for that device-browser combination.
+
+273
+00:34:21.100 --> 00:34:36.050
+shrikrishna umbare: And you can simply, test it on a real device. And once you test that, you can do these steps, like navigate to the platform, do these steps. Okay, this specific step I performed, it passed. This specific step, I performed, but it failed.
+
+274
+00:34:36.190 --> 00:34:43.970
+shrikrishna umbare: and I want to modify, or I want to add the evidence for that, right? This specific test have failed.
+
+275
+00:34:44.100 --> 00:34:53.309
+shrikrishna umbare: But why this way? If you want to add any note, any file, you can do that. If you want to attach any file, you can do that as well.
+
+276
+00:34:53.820 --> 00:35:02.239
+shrikrishna umbare: If you want to add any defect, you can do that as well. If you want to create directly from here, you can do that as well. So for this one, we have
+
+277
+00:35:02.700 --> 00:35:12.849
+shrikrishna umbare: Tapcode effect 1, right? So I can just, link it to the tap code defect, okay? I believe the… this is the different configuration. But yeah, for now, I will just link it to CAN7.
+
+278
+00:35:12.850 --> 00:35:32.480
+shrikrishna umbare: So, if I open the Con7, it will be showing me the test result section. So, in the requirement section, you can see all the test cases, all the test run linked to that requirement. In the fact section, you will be seeing the test result. So, this was the test run, and in that test run, this was the step which got failed.
+
+279
+00:35:32.480 --> 00:35:34.169
+shrikrishna umbare: So I can just simply update it.
+
+280
+00:35:34.390 --> 00:35:47.049
+shrikrishna umbare: And similar to this, you can just modify it for all the steps, and just one step got failed, and the order status is failed. If you want to modify the whole status as well, you can do, like, retest.
+
+281
+00:35:47.310 --> 00:35:50.750
+shrikrishna umbare: Or you want to list, list.
+
+282
+00:35:51.100 --> 00:35:52.420
+shrikrishna umbare: Blogged it, right?
+
+283
+00:35:52.900 --> 00:36:00.489
+shrikrishna umbare: So you can see the overall progress here. And if I do this similarly for all my test cases inside that test run.
+
+284
+00:36:00.620 --> 00:36:10.949
+shrikrishna umbare: You can see the overall progress, for my… this test run is 100%, and you can see the summary as well. How many passed, how many failed, how many blocked.
+
+285
+00:36:10.980 --> 00:36:22.280
+shrikrishna umbare: And, this test run is completed. Now, your question was, what… if we want to have the second version of this, right? So, you can just simply clone this run.
+
+286
+00:36:22.670 --> 00:36:25.900
+shrikrishna umbare: And you can just leave it to version 2.
+
+287
+00:36:26.160 --> 00:36:28.970
+shrikrishna umbare: If you want to select all the test cases.
+
+288
+00:36:29.110 --> 00:36:33.770
+shrikrishna umbare: You can do that as well. If you want to copy all the tags, copy.
+
+289
+00:36:33.770 --> 00:36:36.889
+saraiyan: No, I think this does not solve my problem, though.
+
+290
+00:36:37.070 --> 00:36:39.099
+saraiyan: So here's an example.
+
+291
+00:36:39.960 --> 00:36:40.730
+saraiyan: Right?
+
+292
+00:36:41.040 --> 00:36:46.040
+saraiyan: Let's say version 1. Now, version 1 has 2 cycles. One is integration, one is integration.
+
+293
+00:36:46.720 --> 00:36:49.240
+saraiyan: So I'm saying version 1 is your release, right?
+
+294
+00:36:50.420 --> 00:36:55.000
+saraiyan: Right? Now, under that, we are having two cycles. One is integration, and one is regression.
+
+295
+00:36:55.240 --> 00:37:02.660
+saraiyan: Integration is all the features which we are going to, going to come in as the new features, while regression is the impacted areas.
+
+296
+00:37:04.220 --> 00:37:04.730
+shrikrishna umbare: Right?
+
+297
+00:37:04.820 --> 00:37:09.499
+saraiyan: Now, integration is also going to be run across 4 OSes, or 2 OSs.
+
+298
+00:37:09.660 --> 00:37:14.429
+saraiyan: And then regression is also going to be. But then, within that integration, there will be 4 teams.
+
+299
+00:37:15.770 --> 00:37:18.860
+saraiyan: So how would that view look like?
+
+300
+00:37:19.860 --> 00:37:23.720
+shrikrishna umbare: Will it be, in the spring that you are asking?
+
+301
+00:37:23.720 --> 00:37:25.109
+saraiyan: Not about a sprint.
+
+302
+00:37:25.800 --> 00:37:27.920
+saraiyan: Right? These are kind of quads.
+
+303
+00:37:28.080 --> 00:37:29.049
+shrikrishna umbare: Yeah, yeah, of course.
+
+304
+00:37:29.050 --> 00:37:31.309
+saraiyan: Alright, so there are 20 squads.
+
+305
+00:37:31.480 --> 00:37:35.170
+saraiyan: All squads are working on their own stories. Now they are coming for a release together.
+
+306
+00:37:36.780 --> 00:37:37.650
+shrikrishna umbare: Who cares?
+
+307
+00:37:39.540 --> 00:37:53.540
+shrikrishna umbare: I need to… I need to check it once, like, what will be the best way to use test run and test plan section. For this specific use case, I can just, check this with our team once, and I can get back to you on that part. Will that work?
+
+308
+00:37:53.880 --> 00:37:54.510
+saraiyan: Okay.
+
+309
+00:37:55.640 --> 00:38:03.380
+shrikrishna umbare: Yeah, but you got the understanding, right? The way currently test runs work is, you create the multiple test run by selecting.
+
+310
+00:38:03.380 --> 00:38:03.880
+saraiyan: Yeah, yeah.
+
+311
+00:38:03.880 --> 00:38:05.099
+shrikrishna umbare: best cases, and you.
+
+312
+00:38:05.100 --> 00:38:05.600
+saraiyan: that meets.
+
+313
+00:38:05.610 --> 00:38:06.160
+shrikrishna umbare: further.
+
+314
+00:38:06.160 --> 00:38:10.429
+saraiyan: This will work only if it's one or two teams, right, and individual projects.
+
+315
+00:38:11.290 --> 00:38:12.759
+saraiyan: We are not in that state.
+
+316
+00:38:13.310 --> 00:38:13.750
+shrikrishna umbare: Right.
+
+317
+00:38:13.750 --> 00:38:15.980
+saraiyan: For me, this is not going to be useful at all.
+
+318
+00:38:16.450 --> 00:38:26.559
+shrikrishna umbare: Got it. You will be having multiple, teams and multiple scores, and they will be, they need to use multiple test run sections with different versions as well, right?
+
+319
+00:38:26.740 --> 00:38:27.480
+saraiyan: Yes.
+
+320
+00:38:27.680 --> 00:38:42.630
+shrikrishna umbare: Let me just check with our team once, like, what can be, the best way for this specific use case. I can just get back to you on this part, as we need to, like, we can discuss on the test plan and report part as well. But any question in the test plan?
+
+321
+00:38:44.250 --> 00:38:45.200
+saraiyan: No, all good.
+
+322
+00:38:45.380 --> 00:38:47.900
+Neha Arora: So, we are adding for the tag.
+
+323
+00:38:49.170 --> 00:38:54.509
+Neha Arora: What you have showed on the test run, its tag option is also there in drop-down.
+
+324
+00:38:55.000 --> 00:38:55.780
+shrikrishna umbare: Yeah, yeah.
+
+325
+00:38:57.090 --> 00:39:00.799
+shrikrishna umbare: in the test run section, right? Like, while, for example, I did test…
+
+326
+00:39:01.220 --> 00:39:01.740
+Neha Arora: Awesome.
+
+327
+00:39:01.740 --> 00:39:03.319
+shrikrishna umbare: Configuration you are asking?
+
+328
+00:39:03.860 --> 00:39:07.329
+Neha Arora: Oh, no, the below one is tag. So suppose that…
+
+329
+00:39:07.330 --> 00:39:08.640
+shrikrishna umbare: Yeah, yeah, this one, yeah, yeah, yeah.
+
+330
+00:39:09.290 --> 00:39:10.880
+shrikrishna umbare: I will.
+
+331
+00:39:11.040 --> 00:39:16.540
+Neha Arora: Yeah, so suppose that we need, as Nandresh has mentioned, we have a couple of
+
+332
+00:39:16.800 --> 00:39:24.139
+Neha Arora: squads, or the teams, and a couple of the things, like environment as well. So, can we add on that tag as well?
+
+333
+00:39:24.140 --> 00:39:33.650
+shrikrishna umbare: Yes, yes, yes. You can add a tag, and you can create a custom tag as well, the one that I showed you from this field as well, right? So from the settings section, you can create a custom tag.
+
+334
+00:39:33.650 --> 00:39:47.259
+shrikrishna umbare: For your test run, or your test case, or test result field as well. And, yeah, the use case is very standard, where you want to apply the tax, so that you can categorize the different runs on the basis of this tax.
+
+335
+00:39:50.030 --> 00:39:50.609
+Neha Arora: Happy for you.
+
+336
+00:39:50.740 --> 00:39:52.189
+shrikrishna umbare: Does that answer your question?
+
+337
+00:39:52.350 --> 00:39:54.209
+Neha Arora: Well, hey, young salespeople is better.
+
+338
+00:39:54.210 --> 00:39:55.000
+shrikrishna umbare: Garden.
+
+339
+00:39:55.520 --> 00:39:57.360
+shrikrishna umbare: Any, any other question, test run?
+
+340
+00:39:58.550 --> 00:40:05.220
+Subodh Kant Dinanath Verma: Yeah, I had a question, like, can we group all these tests run in a single folder or something like that?
+
+341
+00:40:05.460 --> 00:40:10.539
+shrikrishna umbare: Yes, yes, good question. So, let me just show you that for the existing project, where I have multiple tests.
+
+342
+00:40:11.350 --> 00:40:12.130
+shrikrishna umbare: So…
+
+343
+00:40:15.970 --> 00:40:19.899
+shrikrishna umbare: So, without grouping, this is how all the test run looks like.
+
+344
+00:40:20.010 --> 00:40:23.180
+shrikrishna umbare: Now, if you want to group them, just select them.
+
+345
+00:40:24.190 --> 00:40:26.700
+shrikrishna umbare: And just add to run group.
+
+346
+00:40:27.070 --> 00:40:28.659
+shrikrishna umbare: And I can give a name.
+
+347
+00:40:29.160 --> 00:40:31.799
+shrikrishna umbare: So, for example, the creator and Group.
+
+348
+00:40:33.370 --> 00:40:34.260
+shrikrishna umbare: Sounds cool.
+
+349
+00:40:37.450 --> 00:40:38.240
+shrikrishna umbare: Ding.
+
+350
+00:40:39.890 --> 00:40:41.809
+shrikrishna umbare: And I can just click on this button.
+
+351
+00:40:43.400 --> 00:40:44.670
+shrikrishna umbare: Then, whoops.
+
+352
+00:40:45.410 --> 00:40:48.580
+shrikrishna umbare: You can see the grouping. This was the sample one.
+
+353
+00:40:49.250 --> 00:40:53.850
+Subodh Kant Dinanath Verma: So it's, it's like, we have to run test cases on 10 different OSes.
+
+354
+00:40:54.080 --> 00:40:59.940
+Subodh Kant Dinanath Verma: So, I will be executing, but it is under the same, you know, same test plan.
+
+355
+00:41:00.900 --> 00:41:03.730
+Subodh Kant Dinanath Verma: So, maybe… Okay, okay, so…
+
+356
+00:41:03.730 --> 00:41:11.000
+shrikrishna umbare: The use case is, you will be running your test case on, n number of OS, right?
+
+357
+00:41:11.160 --> 00:41:12.150
+Subodh Kant Dinanath Verma: Exactly.
+
+358
+00:41:12.150 --> 00:41:28.440
+shrikrishna umbare: Yeah, so, like, what was the, like, what was the intent behind the fold device structure? Because that specific test run, in that test run, you get the ability to select multiple OS configurations. Can you just elaborate more on your use case, like, for the grouping part?
+
+359
+00:41:28.670 --> 00:41:35.109
+Subodh Kant Dinanath Verma: So, we have, you know, different scenarios where we will be doing only some kind of sanity on few…
+
+360
+00:41:35.250 --> 00:41:42.649
+Subodh Kant Dinanath Verma: the older versions of OS, and then we will be running all the integrations on different… the latest OS.
+
+361
+00:41:42.950 --> 00:41:49.190
+shrikrishna umbare: So I will be just picking a few repetitive test cases in different devices.
+
+362
+00:41:49.720 --> 00:42:03.449
+shrikrishna umbare: Got it, got it. Yeah, yeah, yeah, you can do the grouping as well. For example, like, if you want to create a group of older OS test run, you can do that as well. If you want to do a grouping of newer OS versions, you can do that as well.
+
+363
+00:42:03.920 --> 00:42:04.620
+Subodh Kant Dinanath Verma: Okay.
+
+364
+00:42:06.360 --> 00:42:09.670
+shrikrishna umbare: Tim, now we can move towards this plan.
+
+365
+00:42:09.810 --> 00:42:24.899
+shrikrishna umbare: So inside the test plan section, the one that I showed you, right? The test plan is the sprint, like, for example, you can see the date for this test plan is from today to the last date of this month. There are 20 days left.
+
+366
+00:42:25.400 --> 00:42:35.780
+shrikrishna umbare: You can see all the metadata for this. Let me just show you it for demo projects, as there will be multiple tests done. So, for this test plan, you can see…
+
+367
+00:42:35.910 --> 00:42:45.939
+shrikrishna umbare: This has been, like, 15 days overdue. You can just mark it as a complete. If you want to modify the inlet, you can do that as well.
+
+368
+00:42:48.470 --> 00:43:02.049
+shrikrishna umbare: And if you open this test plan, you can see there are four linked test runs. So, in our project, we just created one, one test run, right? But, in this, sprint, or in this… sorry, just give me one minute.
+
+369
+00:43:06.490 --> 00:43:16.870
+shrikrishna umbare: Yeah. So, in this, test plan, if you have 4 test runs, or, like, you want to complete this 4 test runs within this sprint, you can just link all those sprains.
+
+370
+00:43:16.880 --> 00:43:30.430
+shrikrishna umbare: To that specific test plan, and then you can see the progress. Like, this test run is 100% complete, this is 50% complete, this is 25% complete, and you can see the overall progress, how many test cases are being passed, how many are being failed.
+
+371
+00:43:30.470 --> 00:43:34.310
+shrikrishna umbare: Then what is the results from all this link, tests?
+
+372
+00:43:34.410 --> 00:43:47.390
+shrikrishna umbare: or link test run according to the date, you can do that as well. So, this is about the test plan, and you get ability to run this through… run a test plan while creating a test run, directly.
+
+373
+00:43:47.890 --> 00:43:51.789
+shrikrishna umbare: the way we created. So, any question in the test pan section?
+
+374
+00:43:58.720 --> 00:44:10.869
+shrikrishna umbare: Okay, can move forward. So, last section is report. So, as this project don't have a lot more data, so I, I can show you the reporting on the sample project. So, there are, like.
+
+375
+00:44:10.870 --> 00:44:22.649
+shrikrishna umbare: this time, different kind of reports. So you can create a report, and you can select the report category. Even if you select any specific report category, you get the ability
+
+376
+00:44:22.650 --> 00:44:35.899
+shrikrishna umbare: To apply filters on the basis of requirements. So this one is the, requirement traceability report, where you see end-to-end traceability. What was the requirement? What were the test cases? What were the defects? What are the tests done?
+
+377
+00:44:35.920 --> 00:44:44.540
+shrikrishna umbare: And once you add all the information, you can schedule the reports as well. So, let me show you the existing reports. So, if I click on Requirement Traceability.
+
+378
+00:44:44.880 --> 00:44:47.029
+shrikrishna umbare: You can see…
+
+379
+00:44:48.010 --> 00:44:57.959
+shrikrishna umbare: requirement, you will be able to see this, report, where there are 17 requirements in this project. So, this was one requirement.
+
+380
+00:44:58.160 --> 00:45:01.369
+shrikrishna umbare: This requirement was linked to this test case.
+
+381
+00:45:01.390 --> 00:45:13.070
+shrikrishna umbare: then these are the test runs which are created with this test case. Then if there's any defect linked to this, test run, the way I showed you in test run, right? Like, this specific test step failed.
+
+382
+00:45:13.070 --> 00:45:25.739
+shrikrishna umbare: And I have the bug, so I can just link it to a defect. And what were the configuration for that part? What is the test plan it is part of? And who executed this test run at what time.
+
+383
+00:45:25.800 --> 00:45:32.280
+shrikrishna umbare: So this end-to-end, traceability you'll be able to get with requirement and defect part included.
+
+384
+00:45:32.640 --> 00:45:47.860
+shrikrishna umbare: So that was one report. Then we have test run summary, where it just shows the summary of all the tests run, in this, you know, summary. But, in the summary report, it shows the summary of test run and test plan. Let me just do it for all…
+
+385
+00:45:50.830 --> 00:45:52.860
+shrikrishna umbare: Specific tests.
+
+386
+00:45:54.380 --> 00:45:55.689
+shrikrishna umbare: Yeah, this one.
+
+387
+00:45:57.310 --> 00:45:58.800
+shrikrishna umbare: So that's where it's, you know.
+
+388
+00:45:59.640 --> 00:46:11.769
+shrikrishna umbare: You can see the test plan summary, and similar to the summary, you get the test run details report and test case activity. So, for test case activity.
+
+389
+00:46:12.990 --> 00:46:16.070
+shrikrishna umbare: You can just modify this filter.
+
+390
+00:46:16.340 --> 00:46:24.389
+shrikrishna umbare: Yeah, specific test case. If you want to add specific set of test cases in the report, you can do that as well. You can apply the filters.
+
+391
+00:46:24.500 --> 00:46:29.920
+shrikrishna umbare: And whatever way works for you, you can just apply those filters, and you'll be able to see the record section.
+
+392
+00:46:30.120 --> 00:46:41.129
+shrikrishna umbare: So, Tim, this is about the reports. Any question in this, like, as we are on low on time, I can just quickly show you the dashboard section as well. Any question in reports?
+
+393
+00:46:46.250 --> 00:46:47.860
+saraiyan: No questions at this stage.
+
+394
+00:46:47.860 --> 00:46:51.349
+shrikrishna umbare: Okay, okay. So, regarding the dashboards,
+
+395
+00:46:51.410 --> 00:47:10.560
+shrikrishna umbare: So, you can see, you can create your different widgets. So, these are some, default ones. What are the active tests, and how many of them are passed, how many of them have failed, types of test cases, trend of test cases, effect log, and everything. And if you want to create your custom dashboard.
+
+396
+00:47:10.630 --> 00:47:19.880
+shrikrishna umbare: you can just create according to your need. Like, if you want the test case breakdown, you can create that. If you want the active runs, you can create that. So, yeah.
+
+397
+00:47:20.140 --> 00:47:23.529
+shrikrishna umbare: So, this is about our dashboard and reporting part.
+
+398
+00:47:25.130 --> 00:47:39.750
+shrikrishna umbare: team, like, the only thing I need to… not only thing, I need to check, two things. One was, the limiting configuration for number of test cases, and second is, like, as you are…
+
+399
+00:47:39.750 --> 00:47:48.899
+shrikrishna umbare: Yeah, as you will be having multiple teams, in that case, how we can use the, test run functionality at the fullest, right?
+
+400
+00:47:50.020 --> 00:47:58.069
+shrikrishna umbare: I can just, check on this, two-pointers with our team, like, what will be the, best way,
+
+401
+00:47:58.240 --> 00:48:14.359
+shrikrishna umbare: In that case, because we do have, like, customers working on us, like, they have multiple, teams inside, so I can just, better understand this internally once, and I can get back to you on that part. Will that work?
+
+402
+00:48:16.580 --> 00:48:32.379
+shrikrishna umbare: Yeah, and one more thing I would like to suggest, like, it will make a lot more sense, like, once you try it out by yourself, like, this is the thing that we are trying to achieve, then even it gets, easy for us to understand, like, what exactly you're trying to achieve, so that we can help you on a point.
+
+403
+00:48:34.610 --> 00:48:35.130
+saraiyan: Sure.
+
+404
+00:48:35.130 --> 00:48:36.930
+shrikrishna umbare: Yeah. Sidant, over to you.
+
+405
+00:48:36.930 --> 00:48:48.509
+Sidhant: Yeah, Namre and team, basically, we just wanted to get some understanding in terms of the existing workflows that you have, right? Are you able to map it with the features that she has shown today, like, in terms of creating test cases?
+
+406
+00:48:48.560 --> 00:49:06.090
+Sidhant: creating test runs. For manual, you'll have to create it, but for automation, if you're integrating our automate platform as well, then automatically your test runs will get created as and then you execute the automated runs. But yeah, for the test plan, test run, test cases, are you able to map it with your existing workflows?
+
+407
+00:49:06.640 --> 00:49:07.709
+Sidhant: As of now?
+
+408
+00:49:08.820 --> 00:49:09.460
+saraiyan: No.
+
+409
+00:49:10.040 --> 00:49:21.199
+Sidhant: Okay, got it. So, Namrish, would it make sense if we hold another session when we actually talk about, like, discuss the workflows that you'd like to try out, and then we also show you how you can actually do it on Growth Stack Test Manage?
+
+410
+00:49:21.740 --> 00:49:27.760
+saraiyan: Yeah, I think, let's have a… I'll ping you separately, because I think I won't waste the entire team's time.
+
+411
+00:49:27.760 --> 00:49:28.180
+Sidhant: Yeah.
+
+412
+00:49:28.180 --> 00:49:30.930
+saraiyan: Because we have looked at… everybody has had a look.
+
+413
+00:49:31.440 --> 00:49:35.439
+saraiyan: We'll see how we can do a POC, and then we can,
+
+414
+00:49:35.760 --> 00:49:38.739
+saraiyan: Look at it from different perspectives.
+
+415
+00:49:39.600 --> 00:49:52.579
+Sidhant: Sure. Would… yeah, I've got it, like, maybe we can just connect, and you can give us a list of workflows that you'd like to try out, at least for the POC, and then maybe, yeah, so we can actually help you out with that. Cool.
+
+416
+00:49:53.270 --> 00:50:03.890
+Sidhant: I think… I think that's… that's about it from the demo side, but Namrish, tentatively, when would it make sense to, like, maybe do a POC? Any… any rough timeline so that we can also plan things internally?
+
+417
+00:50:06.280 --> 00:50:13.039
+saraiyan: I'll try to do it, like, from next week onwards, not this week. I'll give you a tentative timelines.
+
+418
+00:50:13.280 --> 00:50:18.730
+saraiyan: Separately, because I still have to make sure I'm not… Clashing with the releases.
+
+419
+00:50:19.200 --> 00:50:20.010
+Sidhant: Okay, ordered.
+
+420
+00:50:20.010 --> 00:50:24.730
+saraiyan: Alright, so… That's fine, we can definitely look at that.
+
+421
+00:50:25.300 --> 00:50:38.100
+Sidhant: Sure, works, Amish. Cool, then I'll maybe just keep in touch with you. There is a documentation link that I have shared, in the chat here. That's a great starting point if you'd like to just go through it, how to get started with the tool.
+
+422
+00:50:38.100 --> 00:50:48.370
+Sidhant: And then maybe we can have a discussion in detail. So, cool, I think, yeah, we're on time, so, any questions, Namish, you want us to address, or are we good to conclude?
+
+423
+00:50:49.070 --> 00:50:52.950
+saraiyan: At this age, I'm good. Tim, any other questions from you guys?
+
+424
+00:50:58.230 --> 00:50:59.450
+Sidhant: Indeed.
+
+425
+00:50:59.500 --> 00:51:09.610
+Sidhant: I think… if not, then, please feel free to reach out to us at any point in time. Namrish, you have, mine, and I'll drop Sri's email as well, so…
+
+426
+00:51:09.610 --> 00:51:20.279
+Sidhant: For any questions, you know, we're happy to help you out in support. So once we start up the POC, we'll keep regular check-ins as well, maybe once a week or twice a week to just see how the POC is progressing, and…
+
+427
+00:51:20.280 --> 00:51:21.040
+saraiyan: Yay.
+
+428
+00:51:21.040 --> 00:51:34.500
+Sidhant: support flow going on. Cool. Thank you so much, everybody, for your time. Really appreciate, you coming on this call and seeing the demonstration. We'll keep in touch, and Namesh, I'll, maybe have another discussion with you to plan things forward.
+
+429
+00:51:35.080 --> 00:51:37.490
+saraiyan: Yep. Thanks. Thanks, everyone. Thank you.
+
+430
+00:51:37.490 --> 00:51:38.459
+Sidhant: Thank you, bye-bye.
+

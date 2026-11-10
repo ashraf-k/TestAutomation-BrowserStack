@@ -1,0 +1,430 @@
+Sidhant: Sri, are you able to share here?
+shrikrishna umbare: Can you confirm my screen.
+Sidhant: Yeah, it's… yeah, it is.
+shrikrishna umbare: Apologies, I don't know what happened, we'll check with our IT.
+shrikrishna umbare: Okay. So, team, as mentioned, like, last time I wasn't there, but I got to know from the nodes. Is this team available here?
+Sidhant: I think folks are still joining me.
+shrikrishna umbare: Okay, okay, let's wait for one.
+saraiyan: Yeah, thank you.
+saraiyan: We can start to think.
+shrikrishna umbare: Okay, okay.
+shrikrishna umbare: So, Tim, Emily, in the last call, we couldn't have the end-to-end demo, and the discussion was around the information, pain points, and everything. And you mentioned you also wanted to see the AI capabilities
+shrikrishna umbare: For your application, for your use cases itself. So, like, a few time back itself, I just, I just got a chance to create a PRD, like a sample PRD, not the accurate one, but, for your use cases, and I have created two requirements as well.
+shrikrishna umbare: So, we will work, we will keep the flow accordingly. So, for example, if we have TAPCOP requirement 1, we have TAPCOP requirement 2, defect 1, this is just the sample one, just, I can just give a name.
+shrikrishna umbare: Okay. And we'll be creating a new project itself, and there are some data for which I will just use the sample project.
+shrikrishna umbare: So, this is how the dashboard of TM looks like. You can see all of your projects.
+shrikrishna umbare: If you want to create a new project, you can just create a new project. If you want to quick import, you can do it from test style, X-ray, the per scale, the quad, and Q-Test.
+shrikrishna umbare: I will just go back for now, and we'll create a project.
+shrikrishna umbare: So, for example…
+shrikrishna umbare: Okay, so you can see, in the test case section, currently there is nothing, but you get the ability to create a folder-wise structure. So, for example, if you have any test cases for security, you can just create a folder accordingly.
+saraiyan: Sudan, I think, Can we start from a bit basic? Because…
+saraiyan: The team is completely new to this platform.
+saraiyan: So they have no clue about that.
+Sidhant: short.
+saraiyan: Right, just to… Consider this as a…
+Sidhant: brand new product for them, right? So… Yeah, yeah. Sri, I think we should start from scratch, just give a view of the dashboards and the flows where they can see.
+shrikrishna umbare: Yeah, yeah, I'm just creating a new project for that itself, so that we can just explore, like, every feature and, like, very basic feature from start itself. So, team, as mentioned, like, this is the test management tool where you can create, manage, write, or edit your test cases.
+shrikrishna umbare: Where you get the, lot more AI capabilities.
+shrikrishna umbare: To save the time, to increase the efficiency. So, first section is a test cases section, where you can create, right, manage your test cases.
+shrikrishna umbare: Second section is test run section. We'll come to each section, in detail, and we'll… we'll try to create some test case, test run, we'll try, use this requirement and defect, so that we can check the end-to-end demo, end-to-end flow, how it looks.
+shrikrishna umbare: With reports as well. So test runs will be of two parts. One is a manual test run, I will just show you that how it looks, and there will be an automation run. So, if you run your automated scripts, and you want to see those runs as well, you will be able to see those runs, and you can run, you can link this automation run
+shrikrishna umbare: To the test cases that you have created manually.
+shrikrishna umbare: Then, there will be test plan. So, test plan will be consisting of different test plan. You can just consider it like a sprint.
+shrikrishna umbare: And then you can assign it to someone.
+shrikrishna umbare: And, you can just work on it, you can see the progress. We'll create a test plan as well. And then there are reports. And, like, whole test management consists of this, four important feature, but alongside with that, we have a project insight, where you can see different dashboards.
+shrikrishna umbare: For now, there's no data, but once we create the data, you'll be able to see, and we will explore, like, a lot of customization that you can get to create this widget.
+shrikrishna umbare: To see the overview and summary of everything.
+shrikrishna umbare: Tim, feel free to interrupt me in between.
+shrikrishna umbare: So that, we can just, answer your question, or any open pointer right away, and then we can continue. Does that, does that work?
+saraiyan: Yes.
+shrikrishna umbare: Okay.
+shrikrishna umbare: So, team, as mentioned, I have created a different new project itself. If you want to import the test cases, you can import the test cases from CSV,
+shrikrishna umbare: Just showing you the ability. If you want to do the quick import, we, support these platforms as well, where you can just integrate this with this platform, and you can just quickly, get the details, right away from that specific platform.
+shrikrishna umbare: Then there is a folder-wise hierarchy that you can use to add your test cases. So, for example, I have created one. If I want to create another one, security, and I want to, let's create another one,
+shrikrishna umbare: authentication.
+shrikrishna umbare: So you can see, currently, there are two folders, and there's no test case. And even if you want to create,
+shrikrishna umbare: folder inside this folder, you can do that as well. There are multiple capabilities that you can do with this folder, the way we, do with our file manager, right? Now, here, you can see…
+saraiyan: So, we will have the ability for multiple folders.
+shrikrishna umbare: Like, folder within a folder, and a folder within a folder? Yes, absolutely, absolutely. Because, like, having a folder in just one repository doesn't make any sense, right? So, for example, I can show you this one.
+shrikrishna umbare: In users, there's a profile. In account, there's a privacy deactivation notification.
+saraiyan: We are bonded. I'll also get water. Okay.
+shrikrishna umbare: Yeah.
+shrikrishna umbare: So, for, Juan,
+shrikrishna umbare: For this specific folder, you can create test cases with different ways. You can create a test case manually.
+shrikrishna umbare: So, yeah, so…
+shrikrishna umbare: For now, I will just create a test case with AI. So, in the time it generates the test cases, we can create test case manually. So, you just need to click on Generate with AI, and you can see, you just need to click on Add Requirements.
+shrikrishna umbare: You can add Figma requirements, ADO requirements, Jira requirements, linear, Confluence, SharePoint, OneDrive. If you have any other file, just upload that file. So…
+saraiyan: Is it one only, or we can add multiple sources?
+shrikrishna umbare: You can add multiple files.
+saraiyan: No, no, like, I can add Jira and Figma together?
+shrikrishna umbare: Yes.
+saraiyan: Okay.
+shrikrishna umbare: The file that I created.
+shrikrishna umbare: Let me just, get the file. I have the file.
+shrikrishna umbare: And you, along with that, you can also, view the prompt as well.
+shrikrishna umbare: This is what I need it.
+Sidhant: Sri, are you… were you trying to upload the WhatsApp yearly? The regular upload?
+shrikrishna umbare: I have created, one different PRD for that. Okay. Yeah, yeah, I got the fine.
+shrikrishna umbare: Team team mentioned they want to see the AI use cases for, sample use cases, right? So, this is the file that I've created. Let me just open it.
+shrikrishna umbare: So, the file has been uploaded here.
+shrikrishna umbare: And you can give the… my screen is visible, right?
+saraiyan: Yes.
+shrikrishna umbare: I can, I can show you this file as well. So, this file contains, one sample use case where, it shows the objective, background and context, scope of the test case.
+shrikrishna umbare: And the function required. It is very basic, PRD.
+shrikrishna umbare: And the file has been uploaded, right? Now you can give the,
+shrikrishna umbare: prompt. If you want to generate the test cases in a specific way, you can do that as well. Here's a setting button. So, if you want to generate the test cases.
+shrikrishna umbare: For just this category, just select those categories. If you want to generate the test cases in text format, or in BDD format, or in the test format, you can do that as well.
+shrikrishna umbare: And, according to priority, and according to language as well. So we give this a lot of control, to generate the test cases, and if you want to
+shrikrishna umbare: like, generate the data sets as well for those test cases, you can just include the dataset as well. For now, I'm not including, just to keep the thing simple. And you can generate the test cases.
+shrikrishna umbare: So, what it will do, whatever information that you're giving, whatever prompt that you are providing, on the basis of that, it will generate the context, it will categorize the context, and then it will try to generate all the test cases. So, meanwhile, it is generating test cases. I can show you the manual flow.
+shrikrishna umbare: So.
+saraiyan: Is the LLM behind?
+shrikrishna umbare: So, there are multiple LLMs used, like Andropic, OpenAI, and we don't use any of our customer data to train. Those are trained on the,
+shrikrishna umbare: Sample data set, yeah.
+saraiyan: But all the PRDs and stuff which are going in, where are they going to go?
+saraiyan: Like, that data.
+shrikrishna umbare: Sareem?
+saraiyan: the PRDs which you uploaded right now.
+saraiyan: Is it not going to train it?
+shrikrishna umbare: No, it's… that data… that data won't be used for the training part.
+Sidhant: Yeah, I mean, for training purposes, we use our own dummy data, dummy sheets. There's no customer data. We've got, like, a very robust security mechanism in place where no customer data gets exposed.
+Sidhant: For training, at least. So, yeah, that gets taken care of.
+saraiyan: Okay.
+shrikrishna umbare: Yeah.
+shrikrishna umbare: So, meanwhile, the test scales are being generated, I can show you the,
+shrikrishna umbare: manual flow. We will discuss the Jira integration as well. So…
+shrikrishna umbare: if you want to generate the test case manually, like, you have created it AI, but if you feel like one… there's one test case, I need to create manually. So you can just create the manual test case as well. So, simple test case.
+saraiyan: Awesome. So, this time, instead of… so, when we had the last showcase, we started with.
+shrikrishna umbare: Okay, just a simple website, sorry, just a simple, test case, and even for this one, you want to create it manually, like, this wasn't part of the Gen AI test cases set, but for this as well, if you want to generate, with AI, you can just click on this button.
+shrikrishna umbare: What it can do, it can…
+shrikrishna umbare: add the description, it can add the precondition, and it can add the steps as well. Navigate to TapCorp website homepage.
+shrikrishna umbare: What is the result? The homepage is displayed successfully. Then locate and click on login button. So, these steps are generated. If you feel any of the steps is incorrect, you can just simply delete it, or if you want to add any other detail, you can add, or you can drag and move the steps. If you want to add any URL, any file.
+saraiyan: So, what's the context it took? Is it just the…
+shrikrishna umbare: Just the… That's the heading. If you want to give more context, you can add the description by yourself.
+shrikrishna umbare: And title, and then you can also use the AI capability. If you want to do everything from the scratch, you can do that as well. Like, previously we saw that, right? Before generating the test case, everything was blank. So you can just come here, add the step, add the next steps, add the steps, add the result, and do everything manually as well.
+shrikrishna umbare: But even in manual flow, if you want to utilize the AI capability with a lot more control, you can do this way as well.
+shrikrishna umbare: So, these are the different fields that you get for a test case, like who is the owner, what is the state, what is the priority, what are the type. Now, question arises, I don't use this
+shrikrishna umbare: tags, right? I had different fields. So, while mapping as well, you can map those fields. If you want to create a custom field, that is another very important feature that we provide, which is creating a custom field for test cases and test results.
+shrikrishna umbare: So, if you have any other field that you want to use, you can create that field as well.
+shrikrishna umbare: Not just for test case, but test result and test plan as well.
+shrikrishna umbare: So, you will be able to see that field here.
+shrikrishna umbare: And you can create the custom options as well. So, for example, you created a field, Field 1.
+shrikrishna umbare: And which contains 3 options, X, Y, Z. So, you can create, those options. If you want to…
+shrikrishna umbare: have that, if you want to have the ability to select multiple values, you can do that as well. So, this is another feature that is very important.
+shrikrishna umbare: Then the two-way Jira integration binding that I was referring. So, here you can link it to Jira. Like, can you please confirm, I believe you use Jira, right?
+saraiyan: Yes.
+shrikrishna umbare: Okay, okay. So, so, as I mentioned, I have created two requirements, and I have one defect.
+shrikrishna umbare: So, you can link your requirement from here.
+shrikrishna umbare: So, for example,
+shrikrishna umbare: So, once you, link your requirement, It's incredible.
+shrikrishna umbare: Once you, link your,
+shrikrishna umbare: Like, requirement here, you will be able to see that requirement.
+shrikrishna umbare: So for example, this is not pitching the… the project is different.
+shrikrishna umbare: Requirement 1. Now, I have linked this requirement, from the test management tool. I will just simply update it.
+shrikrishna umbare: So, whatever test cases that I link the requirement here will be linked to this requirement section.
+shrikrishna umbare: So, we have plugin in Jira, so you can see this plugin here.
+shrikrishna umbare: And, once you link the plugin.
+shrikrishna umbare: You'll be able to see, like, generate test cases using AI, generate test runs using AI, and if there are any test cases which are linked, which will be seen here. Let me just replace the page.
+shrikrishna umbare: You can see the test cases that I linked will be seen now.
+shrikrishna umbare: So, that is, you can see, logging into TAPCOP website, correct? So, whatever test cases that you, use to link.
+shrikrishna umbare: the requirement. Those will be seen.
+shrikrishna umbare: be, like, inside that requirement section, this one, right? That is one-way Jira integration, where you do mapping or linking from test management tool, and that is reflected into
+shrikrishna umbare: the Jira, right? Not just the requirement one, we'll show another linking as well, like, for defects, and other things as well, but this is one part of linking, one-way linking. Now, second kind of linking is doing or creating the test cases from here, or generating the test cases directly from here.
+shrikrishna umbare: And you'll be able to see
+shrikrishna umbare: Those test cases inside this folder as well.
+shrikrishna umbare: So, for example, Let me show you it for the… requirement tools.
+shrikrishna umbare: Okay, you can see, there's an option, generate test case using AI, right? You can create a test case manually from here as well, the way we created from platform, right? And you can use the AI capability directly from here as well.
+shrikrishna umbare: So, you need to select the project.
+shrikrishna umbare: For what project you want to link this. In which folder you want to generate the test cases.
+shrikrishna umbare: So, we have set the location.
+shrikrishna umbare: And now we can generate the test cases. So for this part, what it will do, it will generate the context from this description.
+shrikrishna umbare: Right? Because we will be having our requirement, all the details in the requirement, ticket, right? So, from this context, it will be automatically generating, the context and generating the test cases. So, it is generating the test cases, but we'll take a pause. Any, any question till now?
+saraiyan: like, it's generating the test cases, but is the human in loop for validation before it adds it?
+shrikrishna umbare: Sorry.
+saraiyan: Is there a human in loop to review the test cases, or is directly attaching it?
+shrikrishna umbare: Okay, okay, you need to review it, and it won't…
+saraiyan: Before it attaches.
+shrikrishna umbare: So, I can show you that. So, you just need to review it first. You can verify if they are generated successfully or correctly according to your need or not, and then only you can just add them. So, I will come to this part once. I can show you the
+shrikrishna umbare: the test cases that we created with this generated AI from the test management tool.
+saraiyan: Yeah, before we go there, when you were doing the manual test cases, right, where do you add the data requirements? Because I did not see that section.
+shrikrishna umbare: So, when you say data… okay, okay, okay, I got your point.
+shrikrishna umbare: So, this is how you can open the test case. You can click on edit button, you can go to… So, when you say you want to add data for the test case, is it the data for specific test type, like adding some screenshot.
+saraiyan: Yeah, yeah, not… as an example, log in with username and password. It is not just what's username and password we would be validating.
+saraiyan: Right? So it could have multiple data points.
+shrikrishna umbare: Cutting.
+shrikrishna umbare: So, there are different ways. For the first point, if you want to upload a file, you can just upload a file for this test case.
+shrikrishna umbare: Now, this logging use case itself, you want to test it on a multiple user, multiple password, and there are other fields, right? Like, every time you fill a form before logging in, right? So, in that case, you can create a dataset.
+shrikrishna umbare: You can see, you can add the variable name, you can give the values, you can enter a variable name, you can add the value, you can add rows, you can add columns, and you can create your dataset.
+shrikrishna umbare: Does that answer your question?
+saraiyan: Okay, but if it's step-by-step, then?
+saraiyan: Like, if it's for a specific step?
+shrikrishna umbare: when you say, step-by-step, can you elaborate, like, one example? I'm unable.
+saraiyan: Let's say just for the password, not all the other steps.
+shrikrishna umbare: Yeah, yeah, yeah, okay.
+saraiyan: Only in that particular step itself, I want this dataset.
+shrikrishna umbare: Yes, yes, yes, yes, you get the control.
+saraiyan: Creating is one thing, but execution-wise, I would need to see that data set, right?
+shrikrishna umbare: Correct, correct, correct. Okay, okay, I can help you with that. So, for example, for this logging workflow as well, itself, if we have, let's take an example. We create a dataset of two users and two passwords, right?
+shrikrishna umbare: So, whenever we create a test run manually for that specific,
+shrikrishna umbare: test case, you will be able to see this specific manual then will be created for 2 users and 2 passwords.
+shrikrishna umbare: So, once you, once you try it out, you'll get a more clear idea, like, for your use case, like, whatever use case that you need to try, but yeah, that can be achieved, the use case that you are,
+saraiyan: No, but this is a manual… okay.
+saraiyan: So this is, you know…
+shrikrishna umbare: How about the automation part?
+saraiyan: No, no, no, for the manual execution as well, right? So let's say we are going into integration testing. So we have done our story testing.
+saraiyan: Right? Now we have to bring all the test cases together to run those test cases. So how would that scenario work out during the integration phase?
+shrikrishna umbare: Okay, okay, we'll come to that part, that will be in the test run section. So I can just tell you that, you can let me know if that is what you are asking.
+saraiyan: Yeah, so because… So one is that. So, while doing that, I'll have to select the test cases.
+shrikrishna umbare: Got it, got it.
+saraiyan: So, as part of that test cases, I will have certain data sets.
+shrikrishna umbare: Right.
+saraiyan: It could be at the step level, or it could be at the test case level.
+shrikrishna umbare: Correct, correct, correct. Let me just show you that in the test transaction section. We can come to that part.
+shrikrishna umbare: Can we move to a, can we just continue with the AI capability?
+shrikrishna umbare: No.
+shrikrishna umbare: So you can see, the test cases are generated in a different section, visibility of share button, generation of unique shortened URL,
+shrikrishna umbare: And these are the different categories on which the test cases are generated. So, for example, if I, open this specific capability generation of unique shortened URL for bed sharing, right?
+shrikrishna umbare: So, verify unique URL generation for individual pending bet sharing. So, I want to verify if this test case generated is correct or not. So, I can just simply open it.
+shrikrishna umbare: And I can see the description for that test case, the preconditions for that test case. For example, the user should be logged in into the TAB application. User has at least one pending bed slip available. The pending bit contains all this information from the context that, like, it has from this PRD.
+shrikrishna umbare: And even if you feel you want to modify the test cases, you can just give the prompt, like, these test cases are fine.
+shrikrishna umbare: But the pattern on which they are generated, I want it a bit different. Like, I want the flow in this way, or the many of the steps are, I feel, repeated. I don't want, like, very, very small steps as separate steps. So you can just modify, refine your test cases.
+shrikrishna umbare: And if you feel you want to delete any specific test step, you can do that as well, right?
+shrikrishna umbare: So…
+saraiyan: What about limiting the number of test cases generated? So right now it has generated 50.
+saraiyan: Can I limit that? Can I put that boundary?
+shrikrishna umbare: I believe, that… you can try it in the prompt, let me just check it, like, I can just check that and get back to you whenever I create the test case next time. But I believe the numbering,
+shrikrishna umbare: Number… Is it a configurable value, or is it… No, no, no, the value, the value part is not configurable, but in the prompt section.
+shrikrishna umbare: I need to check once, like, if we give the number itself in the prompt, like, generate, just this many test cases, I can just check that and get back to you on this part. But yeah, but configure value, we don't have it now. I can check with our team, like, if there's any field that we can add.
+saraiyan: Okay.
+shrikrishna umbare: Yeah, I can get back to you.
+Sidhant: Just trying to understand, Amish, the, you know, the rationale behind, like, would you want to put a limit there in terms of how many test cases are generated? Because it's quite comprehensive, and anyway, you have to select and go through the suggestions that it comes up.
+saraiyan: That's why if I have to go with the 50…
+saraiyan: Manually, you have to review each of them, it's of no use, right? So rather than saying that 50, I would say, let's say, generate 3 test cases, which are end-to-end, based on the context.
+saraiyan: Shuck.
+Sidhant: Yeah, maybe we can handle that via the prompt, but yeah, let's see if we can add this as a…
+saraiyan: But, like, there's a boundary, right? Which, let's say I don't want to do it every time. I'm just going into more of an agentic way, right? This is still a manual way of doing it.
+saraiyan: So if I go into agent mode…
+Sidhant: And I just limit it to, let's say, 3 test cases by default.
+saraiyan: Got it. Right? If somebody wants more, they can give the thing, but it needs to be configured.
+Sidhant: Understood.
+shrikrishna umbare: That should ideally be handed via the prompt, but yeah, we'll just, check on this with the product team.
+saraiyan: We are not aiming for triplets.
+shrikrishna umbare: So, I can add a test case, I can do reviewing manually as well. If I feel the reviewing has been done, I can just add these 38 test cases all at once, and once they are added, you will see that these test cases are added in this section, in the security folder.
+saraiyan: That your site is.
+shrikrishna umbare: You can see. And here you can see the AI-generated tags. If you want to see a different, different columns on this side, you can do that as well. So you can hide any of this, you can show any of this if you want to see.
+saraiyan: Come back, that's why I won't take…
+shrikrishna umbare: And yeah, similar to that, you can perform bulk actions on these test cases.
+shrikrishna umbare: bulk editing, bulk creator, exporting, sharing. So, team, any question in test case, like, I can move towards testing, like, we have, like, a limited time. I need to cover test run, test run reports 3 section. But any question in test case section?
+saraiyan: Tim, if you guys do anything day-to-day, which is… you guys want to see?
+saraiyan: Feel free to ask that question now.
+saraiyan: For text gas generation.
+saraiyan: There's also a separate side conversation going on around web rebuild. So you don't want to do something and then again rebuild and… Let's proceed.
+shrikrishna umbare: Okay, okay, okay. In the testing section, as I mentioned.
+saraiyan: That's okay.
+shrikrishna umbare: Test run is the collection of test case that you want to, select to run. It can be a manual run, it can be automation run. So, we'll just discuss a bit about automation run. So, like, you will be having your automation soon, automation set.
+shrikrishna umbare: And you want to run those automation test cases with these test cases as well, right? Like, for example, I have this,
+saraiyan: game is very.
+shrikrishna umbare: 39 test cases, and I have the automation suite for these 39 test cases. It just… I want to map these test cases, like, for verified deep link, I have my test case.
+shrikrishna umbare: you can do that as well. We call it as test case ID tagging. So…
+shrikrishna umbare: even for your automation run, you will be able to track the progress with this specific test case. So, for example, this specific test case, I have ran it manually as well, with automation as well. We give that ability.
+saraiyan: Thank you.
+shrikrishna umbare: Then, coming towards the manual run. So you can create a manual run. So, I'm just giving this the default name. Then you can add the test cases, the one that you are asking.
+shrikrishna umbare: So, you can apply the filters, you can apply it from the priority basis. For example, you want to create a test run for all priority tests, P0 test cases, or critical test cases, you can do that as well. So, for now, I'm just opening, two test cases for this test.
+saraiyan: plus technology.
+shrikrishna umbare: You can see the two test cases are, saved here, and you will be running it manually on, let's consider
+shrikrishna umbare: Windows 10 Pro, and
+shrikrishna umbare: Android 13 Pixel. So, these are the two are…
+saraiyan: So, what is… where is this configuration coming from?
+shrikrishna umbare: No, this is just the manual part, right? Like, so… Yeah, yeah, so even in that list, where is that coming from?
+shrikrishna umbare: This is the default list that we have, but yeah, if you want to add any value, you can do that as well.
+shrikrishna umbare: Because you'll be doing it anyway, manually, right?
+shrikrishna umbare: So, you can just add this, or select these values.
+shrikrishna umbare: So, for this two test case, I want to run it on Windows Pro and Android 13 Google Pixel.
+Sidhant: Namlesh, did you mean, in terms of configuration, like, what combinations you're planning to execute those test cases, those test runs?
+saraiyan: Not necessarily we would be interested in just iOS or anything, right? It will be mostly release-based.
+saraiyan: So, I'm not sure what this configuration means, because this is just selecting the mobile devices right now, right? Or the OS versions.
+shrikrishna umbare: So, Amrish, this is just for the, like, configuration purpose. You won't be, like, opening specific session directly for this specific part. Like, we give… we do give you the ability to open a session on a specific device, like, we have browser stack manual testing product, right, platform, which is live.
+shrikrishna umbare: Where you can open that specific device OS combination directly, if available, that I can show you in a while.
+shrikrishna umbare: But yeah, if you want to have it for different devices, I can just confirm that once. But yeah, this is just for the configuration part.
+saraiyan: I'm looking at a different perspective, right? What you're saying is, yes, we do execute our test cases across different devices, right? That's one part to it.
+saraiyan: But let's say in release 1.0, so we create usually a release 1.0 here.
+saraiyan: 2.0, 3.0, right? As part of 1.0, there are, let's say, 4 teams available.
+saraiyan: Right? 4 teams are adding their test cases and executing it across, like, 4 OSes.
+shrikrishna umbare: So how would I do that here?
+shrikrishna umbare: So, you will be having… so, for example, for version 1, you… let's consider you have the two test cases, right? And you will be running it, you will be running it on a different configuration. So, we have selected that, and, one user…
+saraiyan: what's my release? Where does my version want?
+shrikrishna umbare: You need to create a different test run for that.
+shrikrishna umbare: So, for version 1, that will be one test run, and if you have exact test cases, exact requirement for another version, you can just clone this test run. So, it will be cloning the same test run to another test run, and you can just modify the name.
+shrikrishna umbare: But even if you have any other changes, you can just create a separate one, the way we are creating. So let's consider this is your version 1, it's test run.
+saraiyan: you go in the same room as their… They do it.
+shrikrishna umbare: And you can, like, assign it to any user. So, for example, as you mentioned, some user will be performing this test run, right? Or working on this test run. So, you can just assign it to, for example, Shikrishnamay.
+shrikrishna umbare: And here itself, you get the requirement. So, if you have any requirement that you want to link with this specific test run, you can do that. Similar to test case, if you go to CAN7, you will be able to see test run in the test run section, right?
+shrikrishna umbare: And, then there's a test plan. So, for now, there's a no test plan, let me just create one test plan, we'll discuss in a little bit later. But this is a test plan, the start date, let me just put,
+shrikrishna umbare: 11 March, and end date month… end of March.
+shrikrishna umbare: Okay, so for now, just let's focus on the… test transaction. So, for… Okay, it didn't get created.
+shrikrishna umbare: That's, what a brand new one.
+shrikrishna umbare: group testing both.
+shrikrishna umbare: That's select.
+shrikrishna umbare: And I will link it to this test-specific test plan. So, this test plan, will be running from 11th March to end of the March, right? You can add the description, you can upload the file, and you can assign it to user. If you have any requirement, you can link it here, and you will be simply creating it.
+shrikrishna umbare: Right? Now, we selected two test cases, but we selected two configurations. So, hence, there are total four, test cases inside this.
+shrikrishna umbare: And now you can perform the test cases, check the test… verify the test cases by doing it manually.
+shrikrishna umbare: So, for example, this one, this specific combination, might not be available, directly, on a live platform.
+shrikrishna umbare: But yeah, if this is available, you can directly open that session from BrowserStack Live, which is a manual testing platform. Even not, you can just go to Live Dashboard, you can search for that device-browser combination.
+shrikrishna umbare: And you can simply, test it on a real device. And once you test that, you can do these steps, like navigate to the platform, do these steps. Okay, this specific step I performed, it passed. This specific step, I performed, but it failed.
+shrikrishna umbare: and I want to modify, or I want to add the evidence for that, right? This specific test have failed.
+shrikrishna umbare: But why this way? If you want to add any note, any file, you can do that. If you want to attach any file, you can do that as well.
+shrikrishna umbare: If you want to add any defect, you can do that as well. If you want to create directly from here, you can do that as well. So for this one, we have
+shrikrishna umbare: Tapcode effect 1, right? So I can just, link it to the tap code defect, okay? I believe the… this is the different configuration. But yeah, for now, I will just link it to CAN7.
+shrikrishna umbare: So, if I open the Con7, it will be showing me the test result section. So, in the requirement section, you can see all the test cases, all the test run linked to that requirement. In the fact section, you will be seeing the test result. So, this was the test run, and in that test run, this was the step which got failed.
+shrikrishna umbare: So I can just simply update it.
+shrikrishna umbare: And similar to this, you can just modify it for all the steps, and just one step got failed, and the order status is failed. If you want to modify the whole status as well, you can do, like, retest.
+shrikrishna umbare: Or you want to list, list.
+shrikrishna umbare: Blogged it, right?
+shrikrishna umbare: So you can see the overall progress here. And if I do this similarly for all my test cases inside that test run.
+shrikrishna umbare: You can see the overall progress, for my… this test run is 100%, and you can see the summary as well. How many passed, how many failed, how many blocked.
+shrikrishna umbare: And, this test run is completed. Now, your question was, what… if we want to have the second version of this, right? So, you can just simply clone this run.
+shrikrishna umbare: And you can just leave it to version 2.
+shrikrishna umbare: If you want to select all the test cases.
+shrikrishna umbare: You can do that as well. If you want to copy all the tags, copy.
+saraiyan: No, I think this does not solve my problem, though.
+saraiyan: So here's an example.
+saraiyan: Right?
+saraiyan: Let's say version 1. Now, version 1 has 2 cycles. One is integration, one is integration.
+saraiyan: So I'm saying version 1 is your release, right?
+saraiyan: Right? Now, under that, we are having two cycles. One is integration, and one is regression.
+saraiyan: Integration is all the features which we are going to, going to come in as the new features, while regression is the impacted areas.
+shrikrishna umbare: Right?
+saraiyan: Now, integration is also going to be run across 4 OSes, or 2 OSs.
+saraiyan: And then regression is also going to be. But then, within that integration, there will be 4 teams.
+saraiyan: So how would that view look like?
+shrikrishna umbare: Will it be, in the spring that you are asking?
+saraiyan: Not about a sprint.
+saraiyan: Right? These are kind of quads.
+shrikrishna umbare: Yeah, yeah, of course.
+saraiyan: Alright, so there are 20 squads.
+saraiyan: All squads are working on their own stories. Now they are coming for a release together.
+shrikrishna umbare: Who cares?
+shrikrishna umbare: I need to… I need to check it once, like, what will be the best way to use test run and test plan section. For this specific use case, I can just, check this with our team once, and I can get back to you on that part. Will that work?
+saraiyan: Okay.
+shrikrishna umbare: Yeah, but you got the understanding, right? The way currently test runs work is, you create the multiple test run by selecting.
+saraiyan: Yeah, yeah.
+shrikrishna umbare: best cases, and you.
+saraiyan: that meets.
+shrikrishna umbare: further.
+saraiyan: This will work only if it's one or two teams, right, and individual projects.
+saraiyan: We are not in that state.
+shrikrishna umbare: Right.
+saraiyan: For me, this is not going to be useful at all.
+shrikrishna umbare: Got it. You will be having multiple, teams and multiple scores, and they will be, they need to use multiple test run sections with different versions as well, right?
+saraiyan: Yes.
+shrikrishna umbare: Let me just check with our team once, like, what can be, the best way for this specific use case. I can just get back to you on this part, as we need to, like, we can discuss on the test plan and report part as well. But any question in the test plan?
+saraiyan: No, all good.
+Neha Arora: So, we are adding for the tag.
+Neha Arora: What you have showed on the test run, its tag option is also there in drop-down.
+shrikrishna umbare: Yeah, yeah.
+shrikrishna umbare: in the test run section, right? Like, while, for example, I did test…
+Neha Arora: Awesome.
+shrikrishna umbare: Configuration you are asking?
+Neha Arora: Oh, no, the below one is tag. So suppose that…
+shrikrishna umbare: Yeah, yeah, this one, yeah, yeah, yeah.
+shrikrishna umbare: I will.
+Neha Arora: Yeah, so suppose that we need, as Nandresh has mentioned, we have a couple of
+Neha Arora: squads, or the teams, and a couple of the things, like environment as well. So, can we add on that tag as well?
+shrikrishna umbare: Yes, yes, yes. You can add a tag, and you can create a custom tag as well, the one that I showed you from this field as well, right? So from the settings section, you can create a custom tag.
+shrikrishna umbare: For your test run, or your test case, or test result field as well. And, yeah, the use case is very standard, where you want to apply the tax, so that you can categorize the different runs on the basis of this tax.
+Neha Arora: Happy for you.
+shrikrishna umbare: Does that answer your question?
+Neha Arora: Well, hey, young salespeople is better.
+shrikrishna umbare: Garden.
+shrikrishna umbare: Any, any other question, test run?
+Subodh Kant Dinanath Verma: Yeah, I had a question, like, can we group all these tests run in a single folder or something like that?
+shrikrishna umbare: Yes, yes, good question. So, let me just show you that for the existing project, where I have multiple tests.
+shrikrishna umbare: So…
+shrikrishna umbare: So, without grouping, this is how all the test run looks like.
+shrikrishna umbare: Now, if you want to group them, just select them.
+shrikrishna umbare: And just add to run group.
+shrikrishna umbare: And I can give a name.
+shrikrishna umbare: So, for example, the creator and Group.
+shrikrishna umbare: Sounds cool.
+shrikrishna umbare: Ding.
+shrikrishna umbare: And I can just click on this button.
+shrikrishna umbare: Then, whoops.
+shrikrishna umbare: You can see the grouping. This was the sample one.
+Subodh Kant Dinanath Verma: So it's, it's like, we have to run test cases on 10 different OSes.
+Subodh Kant Dinanath Verma: So, I will be executing, but it is under the same, you know, same test plan.
+Subodh Kant Dinanath Verma: So, maybe… Okay, okay, so…
+shrikrishna umbare: The use case is, you will be running your test case on, n number of OS, right?
+Subodh Kant Dinanath Verma: Exactly.
+shrikrishna umbare: Yeah, so, like, what was the, like, what was the intent behind the fold device structure? Because that specific test run, in that test run, you get the ability to select multiple OS configurations. Can you just elaborate more on your use case, like, for the grouping part?
+Subodh Kant Dinanath Verma: So, we have, you know, different scenarios where we will be doing only some kind of sanity on few…
+Subodh Kant Dinanath Verma: the older versions of OS, and then we will be running all the integrations on different… the latest OS.
+shrikrishna umbare: So I will be just picking a few repetitive test cases in different devices.
+shrikrishna umbare: Got it, got it. Yeah, yeah, yeah, you can do the grouping as well. For example, like, if you want to create a group of older OS test run, you can do that as well. If you want to do a grouping of newer OS versions, you can do that as well.
+Subodh Kant Dinanath Verma: Okay.
+shrikrishna umbare: Tim, now we can move towards this plan.
+shrikrishna umbare: So inside the test plan section, the one that I showed you, right? The test plan is the sprint, like, for example, you can see the date for this test plan is from today to the last date of this month. There are 20 days left.
+shrikrishna umbare: You can see all the metadata for this. Let me just show you it for demo projects, as there will be multiple tests done. So, for this test plan, you can see…
+shrikrishna umbare: This has been, like, 15 days overdue. You can just mark it as a complete. If you want to modify the inlet, you can do that as well.
+shrikrishna umbare: And if you open this test plan, you can see there are four linked test runs. So, in our project, we just created one, one test run, right? But, in this, sprint, or in this… sorry, just give me one minute.
+shrikrishna umbare: Yeah. So, in this, test plan, if you have 4 test runs, or, like, you want to complete this 4 test runs within this sprint, you can just link all those sprains.
+shrikrishna umbare: To that specific test plan, and then you can see the progress. Like, this test run is 100% complete, this is 50% complete, this is 25% complete, and you can see the overall progress, how many test cases are being passed, how many are being failed.
+shrikrishna umbare: Then what is the results from all this link, tests?
+shrikrishna umbare: or link test run according to the date, you can do that as well. So, this is about the test plan, and you get ability to run this through… run a test plan while creating a test run, directly.
+shrikrishna umbare: the way we created. So, any question in the test pan section?
+shrikrishna umbare: Okay, can move forward. So, last section is report. So, as this project don't have a lot more data, so I, I can show you the reporting on the sample project. So, there are, like.
+shrikrishna umbare: this time, different kind of reports. So you can create a report, and you can select the report category. Even if you select any specific report category, you get the ability
+shrikrishna umbare: To apply filters on the basis of requirements. So this one is the, requirement traceability report, where you see end-to-end traceability. What was the requirement? What were the test cases? What were the defects? What are the tests done?
+shrikrishna umbare: And once you add all the information, you can schedule the reports as well. So, let me show you the existing reports. So, if I click on Requirement Traceability.
+shrikrishna umbare: You can see…
+shrikrishna umbare: requirement, you will be able to see this, report, where there are 17 requirements in this project. So, this was one requirement.
+shrikrishna umbare: This requirement was linked to this test case.
+shrikrishna umbare: then these are the test runs which are created with this test case. Then if there's any defect linked to this, test run, the way I showed you in test run, right? Like, this specific test step failed.
+shrikrishna umbare: And I have the bug, so I can just link it to a defect. And what were the configuration for that part? What is the test plan it is part of? And who executed this test run at what time.
+shrikrishna umbare: So this end-to-end, traceability you'll be able to get with requirement and defect part included.
+shrikrishna umbare: So that was one report. Then we have test run summary, where it just shows the summary of all the tests run, in this, you know, summary. But, in the summary report, it shows the summary of test run and test plan. Let me just do it for all…
+shrikrishna umbare: Specific tests.
+shrikrishna umbare: Yeah, this one.
+shrikrishna umbare: So that's where it's, you know.
+shrikrishna umbare: You can see the test plan summary, and similar to the summary, you get the test run details report and test case activity. So, for test case activity.
+shrikrishna umbare: You can just modify this filter.
+shrikrishna umbare: Yeah, specific test case. If you want to add specific set of test cases in the report, you can do that as well. You can apply the filters.
+shrikrishna umbare: And whatever way works for you, you can just apply those filters, and you'll be able to see the record section.
+shrikrishna umbare: So, Tim, this is about the reports. Any question in this, like, as we are on low on time, I can just quickly show you the dashboard section as well. Any question in reports?
+saraiyan: No questions at this stage.
+shrikrishna umbare: Okay, okay. So, regarding the dashboards,
+shrikrishna umbare: So, you can see, you can create your different widgets. So, these are some, default ones. What are the active tests, and how many of them are passed, how many of them have failed, types of test cases, trend of test cases, effect log, and everything. And if you want to create your custom dashboard.
+shrikrishna umbare: you can just create according to your need. Like, if you want the test case breakdown, you can create that. If you want the active runs, you can create that. So, yeah.
+shrikrishna umbare: So, this is about our dashboard and reporting part.
+shrikrishna umbare: team, like, the only thing I need to… not only thing, I need to check, two things. One was, the limiting configuration for number of test cases, and second is, like, as you are…
+shrikrishna umbare: Yeah, as you will be having multiple teams, in that case, how we can use the, test run functionality at the fullest, right?
+shrikrishna umbare: I can just, check on this, two-pointers with our team, like, what will be the, best way,
+shrikrishna umbare: In that case, because we do have, like, customers working on us, like, they have multiple, teams inside, so I can just, better understand this internally once, and I can get back to you on that part. Will that work?
+shrikrishna umbare: Yeah, and one more thing I would like to suggest, like, it will make a lot more sense, like, once you try it out by yourself, like, this is the thing that we are trying to achieve, then even it gets, easy for us to understand, like, what exactly you're trying to achieve, so that we can help you on a point.
+saraiyan: Sure.
+shrikrishna umbare: Yeah. Sidant, over to you.
+Sidhant: Yeah, Namre and team, basically, we just wanted to get some understanding in terms of the existing workflows that you have, right? Are you able to map it with the features that she has shown today, like, in terms of creating test cases?
+Sidhant: creating test runs. For manual, you'll have to create it, but for automation, if you're integrating our automate platform as well, then automatically your test runs will get created as and then you execute the automated runs. But yeah, for the test plan, test run, test cases, are you able to map it with your existing workflows?
+Sidhant: As of now?
+saraiyan: No.
+Sidhant: Okay, got it. So, Namrish, would it make sense if we hold another session when we actually talk about, like, discuss the workflows that you'd like to try out, and then we also show you how you can actually do it on Growth Stack Test Manage?
+saraiyan: Yeah, I think, let's have a… I'll ping you separately, because I think I won't waste the entire team's time.
+Sidhant: Yeah.
+saraiyan: Because we have looked at… everybody has had a look.
+saraiyan: We'll see how we can do a POC, and then we can,
+saraiyan: Look at it from different perspectives.
+Sidhant: Sure. Would… yeah, I've got it, like, maybe we can just connect, and you can give us a list of workflows that you'd like to try out, at least for the POC, and then maybe, yeah, so we can actually help you out with that. Cool.
+Sidhant: I think… I think that's… that's about it from the demo side, but Namrish, tentatively, when would it make sense to, like, maybe do a POC? Any… any rough timeline so that we can also plan things internally?
+saraiyan: I'll try to do it, like, from next week onwards, not this week. I'll give you a tentative timelines.
+saraiyan: Separately, because I still have to make sure I'm not… Clashing with the releases.
+Sidhant: Okay, ordered.
+saraiyan: Alright, so… That's fine, we can definitely look at that.
+Sidhant: Sure, works, Amish. Cool, then I'll maybe just keep in touch with you. There is a documentation link that I have shared, in the chat here. That's a great starting point if you'd like to just go through it, how to get started with the tool.
+Sidhant: And then maybe we can have a discussion in detail. So, cool, I think, yeah, we're on time, so, any questions, Namish, you want us to address, or are we good to conclude?
+saraiyan: At this age, I'm good. Tim, any other questions from you guys?
+Sidhant: Indeed.
+Sidhant: I think… if not, then, please feel free to reach out to us at any point in time. Namrish, you have, mine, and I'll drop Sri's email as well, so…
+Sidhant: For any questions, you know, we're happy to help you out in support. So once we start up the POC, we'll keep regular check-ins as well, maybe once a week or twice a week to just see how the POC is progressing, and…
+saraiyan: Yay.
+Sidhant: support flow going on. Cool. Thank you so much, everybody, for your time. Really appreciate, you coming on this call and seeing the demonstration. We'll keep in touch, and Namesh, I'll, maybe have another discussion with you to plan things forward.
+saraiyan: Yep. Thanks. Thanks, everyone. Thank you.
+Sidhant: Thank you, bye-bye.
